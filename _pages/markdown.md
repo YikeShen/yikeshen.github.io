@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-![](microbiome-omics fig.png)
+![](microbiome-omics_fig.png)
 ## Introduction
 
 * Microbiome sequencing price has dropped substantially. More researchers and companies are interested in learning about microbiome in humans, environment, and animals. Shotgun sequencing has enabled in-depth learning of microbial community structure, pathway, functional potential, and active functions. One answer we ALL want to know about microbiome: Who is there, what are they doing? 
