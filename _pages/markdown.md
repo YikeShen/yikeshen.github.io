@@ -34,5 +34,7 @@ Shotgun metatranscriptome sequencing workflow example conceptual
 
 I am happy to collaborate with your microbiome projects. I can offer my insights on what computation resources you need and help you process the data with potential options. Please email me for collaborations.
 
-Graphics created with BioRender.com. Copy right: Yike Shen \ 
-Last Updated 09/25/2022
+Graphics created with BioRender.com. Copy right: Yike Shen
+
+
+Updated 09/25/2022
