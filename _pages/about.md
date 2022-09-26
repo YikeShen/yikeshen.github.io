@@ -44,3 +44,6 @@ Email: [yike.shen@columbia.edu](yike.shen@columbia.edu)\
 Email: [ys3419@cumc.columbia.edu](ys3419@cumc.columbia.edu)
 
 Updated 09/25/2022
+
+![](downstairs_sunset.PNG)
+![](BrooklynBridgePark.PNG)
