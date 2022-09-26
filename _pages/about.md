@@ -40,7 +40,7 @@ Columbia University Mailman School of Public Health \
 630 West 168th Street \
 P&S Building, Room 16-416 \
 New York, New York 10032\
-Email: [](yike.shen@columbia.edu)\
-Email: [](ys3419@cumc.columbia.edu)
+Email: [yike.shen@columbia.edu](yike.shen@columbia.edu)\
+Email: [ys3419@cumc.columbia.edu](ys3419@cumc.columbia.edu)
 
 Updated 09/25/2022
