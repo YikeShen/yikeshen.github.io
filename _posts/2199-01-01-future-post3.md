@@ -1,5 +1,5 @@
 ---
-title: 'Photo test'
+title: 'Photo test![](BrooklynBridgePark.png)'
 date: 2022-09-25
 permalink: 
 tags:
@@ -8,5 +8,4 @@ tags:
   - category2
 ---
 
-![](BrooklynBridgePark.png)
 
