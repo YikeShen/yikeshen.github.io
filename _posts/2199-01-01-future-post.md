@@ -1,5 +1,5 @@
 ---
-title: 'Amazon Web Service RONIN Cloud Computing Tutorial(亚马云RONIN云计算教程)'
+title: 'Amazon Web Service RONIN Cloud Computing Tutorial'
 date: 2021-06-04
 permalink: https://github.com/YikeShen/BaccarelliLab_AWSRONIN_tutorials
 tags:
