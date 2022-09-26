@@ -3,6 +3,6 @@ title: "Harnessing High Dimensional Exposure and Omics Data in Environmental Hea
 collection: talks
 type: "Invited Presentation"
 venue: "Journal of Eco-Environment & Health (Over 2000 audiences listened to the webinar)"
-date: September 13, 2022
+date: September 15, 2022
 location: "Jiangsu, Nanjing, China"
 ---
