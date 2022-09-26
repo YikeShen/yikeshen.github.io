@@ -8,5 +8,5 @@ tags:
   - category2
 ---
 
-* ![](BrooklynBridgePark.png)
+![](BrooklynBridgePark.png)
 
