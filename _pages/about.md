@@ -47,4 +47,4 @@ Updated 09/25/2022
 
 ![](downstairs_sunset.PNG)
 
-![](BrooklynBridgePark.PNG)
+![](BrooklynBridgePark.jpg)
