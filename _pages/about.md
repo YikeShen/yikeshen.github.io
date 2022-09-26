@@ -45,6 +45,3 @@ Email: [ys3419@cumc.columbia.edu](ys3419@cumc.columbia.edu)
 
 Updated 09/25/2022
 
-#![](downstairs_sunset.png)
-
-#![](BrooklynBridgePark.jpg)
