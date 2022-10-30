@@ -31,7 +31,6 @@ list of my [publications](https://scholar.google.com/citations?hl=en&user=hLvLhV
 list of my [talks](https://yikeshen.github.io//talks/);\
 my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_103022.pdf)
 
-
 Contact Information
 =====
 Yike Shen \
