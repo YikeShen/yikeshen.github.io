@@ -29,7 +29,13 @@ Exciting updates are coming soon [Shen et al., manuscript in prepration](). Stay
 I support open and transparent research, all code for my publications (leading and/or corresponding authors) are available at my [GitHub Repository](https://github.com/YikeShen?tab=repositories); \
 list of my [publications](https://scholar.google.com/citations?hl=en&user=hLvLhVcAAAAJ&view_op=list_works&sortby=pubdate);\
 list of my [talks](https://yikeshen.github.io//talks/);\
-my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_103022.pdf)
+my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_111322.pdf)
+
+
+## News
+Feature article about my research\
+Shen Y. (2022). Harnessing high-dimensional data in environmental health sciences. Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link]( https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
+
 
 Contact Information
 =====
@@ -42,5 +48,5 @@ New York, New York 10032\
 Email: [yike.shen@columbia.edu](yike.shen@columbia.edu)\
 Email: [ys3419@cumc.columbia.edu](ys3419@cumc.columbia.edu)
 
-Updated 10/30/2022
+Updated 11/15/2022
 
