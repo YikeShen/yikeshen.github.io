@@ -28,7 +28,7 @@ Exciting updates are coming soon [Shen et al., manuscript in prepration](). Stay
 I support open and transparent research, all code for my publications (leading and/or corresponding authors) are available at my [GitHub Repository](https://github.com/YikeShen?tab=repositories); \
 list of my [publications](https://scholar.google.com/citations?hl=en&user=hLvLhVcAAAAJ&view_op=list_works&sortby=pubdate);\
 list of my [talks](https://yikeshen.github.io//talks/);\
-my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_111322.pdf)
+my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_112722.pdf)
 
 
 ## News
