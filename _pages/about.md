@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## I am currently in the market for Tenure Track Assistant Professor positions in Environmental Health Sciences/Environmental Sciences.
 
 ![](theme_watermark_compressed.PNG)
 
@@ -48,5 +47,5 @@ New York, New York 10032\
 Email: [yike.shen@columbia.edu](yike.shen@columbia.edu)\
 Email: [ys3419@cumc.columbia.edu](ys3419@cumc.columbia.edu)
 
-Updated 11/15/2022
+Updated 11/29/2022
 
