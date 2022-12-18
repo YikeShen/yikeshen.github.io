@@ -59,6 +59,8 @@ Skills
   * Various molecular biology and analytical chemistry hands on laboratory skills
 
 Publications
+Coauthor cloud as of 12/18/22
+![](YikeShencoauthorcloud.PNG)
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
