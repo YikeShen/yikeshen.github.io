@@ -59,7 +59,8 @@ Skills
   * Various molecular biology and analytical chemistry hands on laboratory skills
 
 
-![CoauthorCloud](YikeShencoauthorcloud.PNG)
+![CoauthorCloud](YikeShencoauthorcloud.png)
+
 Publications
 ======
   <ul>{% for post in site.publications %}
