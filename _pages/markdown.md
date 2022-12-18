@@ -14,10 +14,10 @@ redirect_from:
 
 ## Example conceptuals
 Shotgun metagenome sequencing workflow example conceptual
-![Shotgun metagenome sequencing workflow example conceptual](metagenome_bioinformatics_conceptual.png)
+![Shotgun metagenome sequencing workflow example conceptual](metagenome_bioinformatics_conceptual_121822.png)
 
 Shotgun metatranscriptome sequencing workflow example conceptual
-![Shotgun metatranscriptome sequencing workflow example conceptual](metatranscriptome_bioinformatics_conceptual.png)
+![Shotgun metatranscriptome sequencing workflow example conceptual](metatranscriptome_bioinformatics_conceptual_121822.png)
 
 ### Notes:
 * I often see people using human databases for environmental samples in shotgun metagenomic sequencing. It is not wrong, but you are only mapping up to 20% of your environmental sample reads into the human database. Analyze shotgun metagenomic sequencing for environmental samples are more challenging. I recommend the researchers identify the goal of the research and use assembly based approaches. 
