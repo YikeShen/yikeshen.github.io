@@ -23,7 +23,7 @@ Humans are exposed to a myriad of environmental pollutants (e.g., pharmaceutical
 ## 2. Precision computational environmental health 
 
 ![](MLdirection_121822.png)
-##### This section employ various novel machine learning and deep learning models to tackle environmental health problems. The work from this section is the major collaboration with my colleague Dr. Feng Gao.
+##### This section employs various novel machine learning and deep learning models to tackle environmental health problems. The work from this section is the major collaboration with my colleague Dr. Feng Gao.
 
 ### Exposure assessment and toxicity
 Accurate prediction of fate and transport of contaminants in the environment is a critical step in chemical risk assessment.I am interested in systematically predicting toxicity and understanding properties of interest using novel machine learning and deep learning models. Our work includes: 1) predict pesticide dissipation half-life intervals in plants using molecular fingerprints [Shen et al., 2022. Journal of Hazardous Materials](https://doi.org/10.1016/j.jhazmat.2022.129177); 2) predict chemical ecotoxicity by learning latent space chemical representations [Gao, ......, Shen*. 2022. Environment International](https://doi.org/10.1016/j.envint.2022.107224). 3) predict bioaccumulation of organic contaminants in plant roots from soils [Gao and Shen et al., 2022. Journal of Hazardous Materials](https://doi.org/10.1016/j.jhazmat.2021.127437); [Gao et al., 2021. Environmental Science & Technology](https://doi.org/10.1021/acs.est.1c02376); 
@@ -45,9 +45,6 @@ my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_1127
 Feature article about my research\
 Shen Y. (2022). Harnessing high-dimensional data in environmental health sciences. Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link]( https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
 
-![](ResearchFeatures_1.PNG)
-
-![](ResearchFeatures_2.PNG)
 
 Contact Information
 =====
