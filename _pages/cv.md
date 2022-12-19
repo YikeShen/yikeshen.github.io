@@ -83,15 +83,23 @@ Teaching Assistant (TA)
 
 Review Services
 =====
-* Environmental Science & Technology
-* Environmental Research
-* Science of the Total Environment
-* Food Chemistry
-* BMC Genomics
-* Environmental Pollution
-* Frontiers in Microbiology
-* Journal of Environmental Management
-* Reviews of Environmental Contamination and Toxicology
+* Environmental Science & Technology (ACS)
+* Environmental Research (Elsevier)
+* Science of the Total Environment (Elsevier)
+* Environmental Pollution (Elsevier)
+* Chemosphere (Elsevier)
+* Applied Soil Ecology (Elsevier)
+* Food Chemistry (Elsevier)
+* Current Research in Food Science (Elsevier)
+* Journal of Environmental Management (Elsevier)
+* BMC Medicine (BioMed Central)
+* BMC Genomics (BioMed Central)
+* Frontiers in Microbiology (Frontiers)
+* Reviews of Environmental Contamination and Toxicology (Springer Nature)
+* Scientific Reports (Springer Nature) 
+* International Journal of Environmental Research and Public Health (MDPI)
+* Pathogens (MDPI)
+
 
 Honors & Awards
 =====
@@ -111,5 +119,5 @@ External Awards
 * ZAFU - UofA (ALES) Award  (University of Alberta), 2013
 * National Scholarship of China (Ministry of Education in China), 2013
 
-*Updated 10/30/2022 
+*Updated 12/19/2022 
 
