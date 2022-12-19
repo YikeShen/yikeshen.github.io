@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](theme_watermark_compressed.PNG)
+![](Theme_watermark.png)
 
 
 Welcome to my website! My research focuses on Environmental Health Data Science where I integrate environmental exposures, multi-omics, and health outcomes. The future Shen Laboratory will approach this framework through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data. My research has two directions: 
