@@ -44,9 +44,10 @@ my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_1127
 ## News
 Feature article about my research\
 Shen Y. (2022). Harnessing high-dimensional data in environmental health sciences. Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link]( https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
-![](ResearchFeatures_1.png)
 
-![](ResearchFeatures_2.png)
+![](ResearchFeatures_1.PNG)
+
+![](ResearchFeatures_2.PNG)
 
 Contact Information
 =====
