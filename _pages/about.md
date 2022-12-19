@@ -23,17 +23,17 @@ Humans are exposed to a myriad of environmental pollutants (e.g., pharmaceutical
 ## 2. Precision computational environmental health 
 
 ![](MLdirection_121822.png)
-*This section is the major collaboration with my colleague Dr. Feng Gao\
+##### This section employ various novel machine learning and deep learning models to tackle environmental health problems. The work from this section is the major collaboration with my colleague Dr. Feng Gao.
+
 ### Exposure assessment and toxicity
+Accurate prediction of fate and transport of contaminants in the environment is a critical step in chemical risk assessment.I am interested in systematically predicting toxicity and understanding properties of interest using novel machine learning and deep learning models. Our work includes: 1) predict pesticide dissipation half-life intervals in plants using molecular fingerprints [Shen et al., 2022. Journal of Hazardous Materials](https://doi.org/10.1016/j.jhazmat.2022.129177); 2) predict chemical ecotoxicity by learning latent space chemical representations [Gao, ......, Shen*. 2022. Environment International](https://doi.org/10.1016/j.envint.2022.107224). 3) predict bioaccumulation of organic contaminants in plant roots from soils [Gao and Shen et al., 2022. Journal of Hazardous Materials](https://doi.org/10.1016/j.jhazmat.2021.127437); [Gao et al., 2021. Environmental Science & Technology](https://doi.org/10.1021/acs.est.1c02376); 
 
-2. Harnessing high-dimensional chemical and omics data\
-High dimensional data are becoming increasingly common in environmental and biomedical research (e.g., omics). While we obtain much more information from high-dimensional data, they may contain redundant information. Therefore, the ability to learn from high-dimensional data is challenging. I have developed deep learning models such as autoencoder models to learn latent space chemical representations to predict chemical ecotoxicity [Gao, ......, Shen*. 2022. Environment International](https://doi.org/10.1016/j.envint.2022.107224). I also developed a AESur: autoencoder survival analysis model to assist early prediction of coronary heart disease [Shen et al., manuscript in prepration](). Future works include exposomics, metagenomics, etc. 
+### Moleculear biomarkers and health outcomes
+High dimensional data are becoming increasingly common in environmental and biomedical research (e.g., omics). While we obtain much more information from high-dimensional data, they may contain redundant information. Therefore, the ability to learn from high-dimensional data is challenging. We developed a deep learning autoencoder survival analysis model – AESurv to assist accurate early prediction of coronary heart disease from high dimensional epigenomics data [Shen et al., manuscript in prepration](). Future works include integrating metagenomics, metatranscriptomics, exposomics, etc. 
 
-3. Exploring the fate and transport of contaminants in the environment\
-Accurate prediction of fate and transport of contaminants in the environment is a critical step in chemical risk assessment. I am interested in systematically predicting toxicity and understanding properties of interest with the help of machine learning, deep learning, and experiments. My work includes: 1) predicted pesticide dissipation half-life intervals in plants using molecular fingerprints [Shen et al., 2022. Journal of Hazardous Materials](https://doi.org/10.1016/j.jhazmat.2022.129177); 2) predicted bioaccumulation of organic contaminants in plant roots from soils [Gao and Shen et al., 2022. Journal of Hazardous Materials](https://doi.org/10.1016/j.jhazmat.2021.127437); [Gao et al., 2021. Environmental Science & Technology](https://doi.org/10.1021/acs.est.1c02376); 3) conducted a laboratory experiment on comparing root concentration factors of antibiotics for lettuce measured in rhizosphere and bulk soils [Shen et al., 2021. Chemosphere](https://doi.org/10.1016/j.chemosphere.2020.127677). 
+### Knowledge-driven discovery
+Contemporary environmental health sciences draw on large-scale longitudinal studies to understand the impact of environmental exposures and lifestyle factors on the risk of disease and identify potential underlying mechanisms. In such studies, cohorts of individuals are assembled and followed up over time. Each cohort generates hundreds of publications, which are typically not coherently organized nor summarized, hence limiting knowledge-driven dissemination. Hence, we developed Cohort Network, a multi-layer knowledge graph approach to extract exposures, outcomes, and their connections. Exciting updates are coming soon [Shen et al., manuscript under review](). Stay tuned!
 
-4. Network analysis in epidemiology cohort studies.\
-Exciting updates are coming soon [Shen et al., manuscript in prepration](). Stay tuned!
 
 I support open and transparent research, all code for my publications (leading and/or corresponding authors) are available at my [GitHub Repository](https://github.com/YikeShen?tab=repositories); \
 list of my [publications](https://scholar.google.com/citations?hl=en&user=hLvLhVcAAAAJ&view_op=list_works&sortby=pubdate);\
@@ -44,7 +44,9 @@ my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_1127
 ## News
 Feature article about my research\
 Shen Y. (2022). Harnessing high-dimensional data in environmental health sciences. Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link]( https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
+![](ResearchFeatures_1.png)
 
+![](ResearchFeatures_2.png)
 
 Contact Information
 =====
@@ -57,6 +59,5 @@ New York, New York 10032\
 Email: [yike.shen@columbia.edu](yike.shen@columbia.edu)\
 Email: [ys3419@cumc.columbia.edu](ys3419@cumc.columbia.edu)
 
-Updated 11/29/2022
+Updated 12/18/2022
 
-I am currently a postdoctoral research scientist at Columbia University working with Dr. Andrea Baccarelli. I dedicate my career and research to environmental health data science. I approach this theme through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data. In my doctoral and postdoctoral training, I gained proficient knowledge and skills in microbiome, machine learning, high dimensional data analytics, bioinformatics, environmental toxicology, and wet lab techniques. My major research interests are listed as follows:
