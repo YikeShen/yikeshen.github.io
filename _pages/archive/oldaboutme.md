@@ -42,8 +42,11 @@ my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_1231
 
 
 ## News
-Feature article about my research\
+Feature article\
 Shen Y. (2022). Harnessing high-dimensional data in environmental health sciences. Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link]( https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
+
+Interview\
+Women in Science: we have the power to change the world. Episode 6 – Yike Shen. UCLA GradSWE interview series hosted by Yifan Gao. December 22, 2022. [Interview link](https://www.youtube.com/watch?v=W0Nmf7P1KAM&ab_channel=GradSWEUCLA)
 
 
 Contact Information
@@ -57,5 +60,5 @@ New York, New York 10032\
 Email: [yike.shen@columbia.edu](yike.shen@columbia.edu)\
 Email: [ys3419@cumc.columbia.edu](ys3419@cumc.columbia.edu)
 
-Updated 12/18/2022
+Updated 01/07/2022
 
