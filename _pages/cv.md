@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View pdf CV here](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_123122.pdf)
+[View pdf CV here](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_01252023.pdf)
 
 Education
 ======
@@ -84,6 +84,8 @@ Teaching Assistant (TA)
 Review Services
 =====
 * Environmental Science & Technology (ACS)
+* ACS Environmental Science & Technology Water (ACS)
+* The Innovation (CellPress)
 * Environmental Research (Elsevier)
 * Science of the Total Environment (Elsevier)
 * Environmental Pollution (Elsevier)
@@ -99,6 +101,7 @@ Review Services
 * Scientific Reports (Springer Nature) 
 * International Journal of Environmental Research and Public Health (MDPI)
 * Pathogens (MDPI)
+* Nutrients (MDPI)
 
 
 Honors & Awards
@@ -119,5 +122,5 @@ External Awards
 * ZAFU - UofA (ALES) Award  (University of Alberta), 2013
 * National Scholarship of China (Ministry of Education in China), 2013
 
-*Updated 12/19/2022 
+*Updated 01/25/2023
 
