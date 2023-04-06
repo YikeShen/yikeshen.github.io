@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[View pdf CV here](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_03052023.pdf)
+[View pdf CV here](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_04062023.pdf)
 
 Education
 ======
@@ -85,6 +85,7 @@ Review Services
 =====
 * Environmental Science & Technology (ACS)
 * ACS Environmental Science & Technology Water (ACS)
+* Chemical Research in Toxicology (ACS)
 * The Innovation (CellPress)
 * Environmental Research (Elsevier)
 * Science of the Total Environment (Elsevier)
@@ -97,11 +98,14 @@ Review Services
 * BMC Medicine (BioMed Central)
 * BMC Genomics (BioMed Central)
 * Frontiers in Microbiology (Frontiers)
+* Current Environmental Health Reports (Springer Nature)
 * Reviews of Environmental Contamination and Toxicology (Springer Nature)
 * Scientific Reports (Springer Nature) 
+* Journal of Trust Research (Taylor & Francis Online)
 * International Journal of Environmental Research and Public Health (MDPI)
 * Pathogens (MDPI)
 * Nutrients (MDPI)
+* Microorganisms (MDPI)
 
 
 Honors & Awards
@@ -122,5 +126,5 @@ External Awards
 * ZAFU - UofA (ALES) Award  (University of Alberta), 2013
 * National Scholarship of China (Ministry of Education in China), 2013
 
-*Updated 01/25/2023
+*Updated 04/06/2023
 
