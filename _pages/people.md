@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ![](webpeopleme.png)
+![](Yike Shen_profile pic 2023.JPG)
+
 ### Yike Shen, Ph.D.
 Assistant Professor (starting September 2023)\
 Department of Earth and Environmental Sciences\
