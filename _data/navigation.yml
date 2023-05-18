@@ -7,8 +7,8 @@ main:
   - title: "People"
     url: /People/
 
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
     
   - title: "Join"
     url: /JoinShenLab/ 
