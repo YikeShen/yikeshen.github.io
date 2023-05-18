@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-![](webpeopleme.png)\
+![](webpeopleme.png)
 
 ### Yike Shen, Ph.D.
 Assistant Professor (starting September 2023)\
