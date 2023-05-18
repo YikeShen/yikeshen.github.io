@@ -1,22 +1,26 @@
 # main links links
 main:
+
+  - title: "People"
+    url: /People/
+
   - title: "CV"
     url: /cv/
- 
+    
+  - title: "Join"
+    url: /JoinShenLab/ 
+    
   - title: "Publications"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Microbiome Bioinformatics"
-    url: /markdown/   
-    
- # - title: "Portfolio"
- #   url: /portfolio/
-        
+  - title: "Microbiome Service Core"
+    url: /microbiome/   
+            
   - title: "Blog Posts"
-    url: /year-archive/
+    url: /blogs/
     
 
     
