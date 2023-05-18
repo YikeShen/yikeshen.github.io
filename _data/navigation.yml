@@ -1,6 +1,9 @@
 # main links links
 main:
 
+  - title: "Research"
+    url: /research/
+
   - title: "People"
     url: /People/
 
@@ -24,5 +27,4 @@ main:
     
 
     
- # - title: "Guide"
- #   url: /markdown/
+
