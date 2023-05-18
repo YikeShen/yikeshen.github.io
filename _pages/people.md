@@ -9,10 +9,10 @@ redirect_from:
 
 ![](webpeopleme.png)
 ### Yike Shen, Ph.D.
-Assistant Professor (starting September 2023)
-Department of Earth and Environmental Sciences
-University of Texas at Arlington
-my [CV] (https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_05172023.pdf)
+Assistant Professor (starting September 2023)\
+Department of Earth and Environmental Sciences\
+University of Texas at Arlington\
+my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_05172023.pdf)
 
 
 ### You?
