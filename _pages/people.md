@@ -14,6 +14,7 @@ Assistant Professor (starting September 2023)\
 Department of Earth and Environmental Sciences\
 University of Texas at Arlington\
 my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_05172023.pdf)\
+
 Training: 
 * Postdoctoral Research Scientist, Department of Environmental Health Sciences, Columbia University in the City of New York, 06/2020-08/2023\
 * Ph.D. Crop and Soil Science – Environmental Toxicology, Michigan State University, 2020\
