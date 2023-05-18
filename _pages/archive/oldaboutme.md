@@ -1,21 +1,21 @@
 ---
 permalink: /
-title: "Shen Environmental Health Data Science Group"
-excerpt: "Shen Environmental Health Data Science Group"
+title: ""
+excerpt: "Shen Environmental Health Data Science Laboratory"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### I will join University of Texas at Arlington as an Assistant Professor in Fall 2023
+### Dr. Shen will join University of Texas at Arlington as an Assistant Professor in Fall 2023
 
-My lab is recruiting 2 full-ride Ph.D. students interested in Environmental Health Data Science. [Join](https://yikeshen.github.io//JoinShenLab/)
+We are recruiting 2 full-ride Ph.D. students interested in Environmental Health Data Science. [Join](https://yikeshen.github.io//JoinShenLab/)
 
 ![](Theme_watermark.png)
 
 
-The Shen Environmental Health Data Science Research Group focuses on Environmental Health Data Science where I integrate environmental exposures, multi-omics, and health outcomes. The Shen Environmental Health Data Science Laboratory will approach this framework through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data.
+Shen Environmental Health Data Science Laboratory focuses on Environmental Health Data Science where we integrate environmental exposures, multi-omics, and health outcomes. We approach this framework through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data.
 
 
 ## News
