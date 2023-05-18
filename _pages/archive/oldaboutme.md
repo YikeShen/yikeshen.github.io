@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-## I will join University of Texas at Arlington as an Assistant Professor in Fall 2023
+### I will join University of Texas at Arlington as an Assistant Professor in Fall 2023
 
-My lab is recruiting 2 full-ride Ph.D. students interested in Environmental Health Data Science. 
+My lab is recruiting 2 full-ride Ph.D. students interested in Environmental Health Data Science [Join](https://yikeshen.github.io//JoinShenLab/). 
 
 ![](Theme_watermark.png)
 
