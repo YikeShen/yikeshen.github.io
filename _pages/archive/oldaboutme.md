@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Shen Environmental Health Data Science Laboratory"
-excerpt: "Shen Environmental Health Data Science Laboratory"
+title: "Shen Environmental Health Data Science Group"
+excerpt: "Shen Environmental Health Data Science Group"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,7 +15,7 @@ My lab is recruiting 2 full-ride Ph.D. students interested in Environmental Heal
 ![](Theme_watermark.png)
 
 
-Welcome to my website! My research focuses on Environmental Health Data Science where I integrate environmental exposures, multi-omics, and health outcomes. The Shen Environmental Health Data Science Laboratory will approach this framework through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data.
+The Shen Environmental Health Data Science Research Group focuses on Environmental Health Data Science where I integrate environmental exposures, multi-omics, and health outcomes. The Shen Environmental Health Data Science Laboratory will approach this framework through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data.
 
 
 ## News
