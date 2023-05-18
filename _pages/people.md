@@ -7,7 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
-![](webpeopleme.png)
+![](webpeopleme.png)\
+
 ![](Yike Shen_profile pic 2023.JPG)
 
 ### Yike Shen, Ph.D.
