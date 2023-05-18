@@ -10,15 +10,15 @@ redirect_from:
 ![](webpeopleme.png)
 
 ### Yike Shen, Ph.D.
-Assistant Professor (starting September 2023)\
-Department of Earth and Environmental Sciences\
-University of Texas at Arlington\
-my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_05172023.pdf)\
+Assistant Professor (starting September 2023) \
+Department of Earth and Environmental Sciences \
+University of Texas at Arlington \
+my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_05172023.pdf) \
 
 Training: 
-* Postdoctoral Research Scientist, Department of Environmental Health Sciences, Columbia University in the City of New York, 06/2020-08/2023\
-* Ph.D. Crop and Soil Science – Environmental Toxicology, Michigan State University, 2020\
-* Ph.D. dual major, Environmental Science and Policy, Michigan State University, 2020\
+* Postdoctoral Research Scientist, Department of Environmental Health Sciences, Columbia University in the City of New York, 06/2020-08/2023
+* Ph.D. Crop and Soil Science – Environmental Toxicology, Michigan State University, 2020
+* Ph.D. dual major, Environmental Science and Policy, Michigan State University, 2020
 * B.Sc. Environmental and Conservation Sciences, University of Alberta, 2016
 
 ### You?
