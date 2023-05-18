@@ -13,6 +13,8 @@ redirect_from:
 Assistant Professor (starting September 2023) \
 Department of Earth and Environmental Sciences \
 University of Texas at Arlington \
+Email: yike.shen@uta.edu \
+Email: ys3419@cumc.columbia.edu \
 my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_05172023.pdf) 
 
 Training: 
