@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shen Environmental Health Data Science Laboratory at University of Texas at Arlington"
+title: "Shen Environmental Health Data Science Laboratory"
 excerpt: "Shen Environmental Health Data Science Laboratory"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Announcement
+I will join University of Texas at Arlington as an Assistant Professor in Fall 2023
 =====
-I will join University of Texas at Arlington as an Assistant Professor in Fall 2023. My lab is recruiting 2 full-ride Ph.D. students interested in Environmental Health Data Science. 
+My lab is recruiting 2 full-ride Ph.D. students interested in Environmental Health Data Science. 
 
 ![](Theme_watermark.png)
 
@@ -20,7 +20,7 @@ Welcome to my website! My research focuses on Environmental Health Data Science 
 
 ## News
 
-Our Cohort Network paper and Cover Art is accepted at Environmental Science & Technology!\
+Our Cohort Network paper and Cover Art is accepted at Environmental Science & Technology!
 
 Feature article\
 Shen Y. (2022). Harnessing high-dimensional data in environmental health sciences. Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link]( https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
@@ -44,7 +44,7 @@ Columbia University Mailman School of Public Health \
 P&S Building, Room 16-416 \
 New York, New York 10032\
 Email: [ys3419@cumc.columbia.edu](ys3419@cumc.columbia.edu) (Primary)\
-Email: [yike.shen@uta.edu](yike.shen@uta.edu)\
+Email: [yike.shen@uta.edu](yike.shen@uta.edu)
 
 
 Updated 05/18/2023
