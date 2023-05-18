@@ -15,7 +15,7 @@ We are recruiting 2 full-ride Ph.D. students interested in Environmental Health 
 ![](Theme_watermark.png)
 
 
-Shen Environmental Health Data Science Laboratory focuses on Environmental Health Data Science where we integrate environmental exposures, multi-omics, and health outcomes. We approach this framework through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data.
+The Shen Laboratory focuses on Environmental Health Data Science where we integrate environmental exposures, multi-omics, and health outcomes. We approach this framework through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data.
 
 
 ## News
