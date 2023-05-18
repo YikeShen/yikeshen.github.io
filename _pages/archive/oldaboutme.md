@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I will join University of Texas at Arlington as an Assistant Professor in Fall 2023
-=====
+## I will join University of Texas at Arlington as an Assistant Professor in Fall 2023
+
 My lab is recruiting 2 full-ride Ph.D. students interested in Environmental Health Data Science. 
 
 ![](Theme_watermark.png)
@@ -35,8 +35,7 @@ list of my [publications](https://scholar.google.com/citations?hl=en&user=hLvLhV
 list of my [talks](https://yikeshen.github.io//talks/);\
 my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_05172023.pdf)
 
-Contact Information
-=====
+## Contact Information
 Yike Shen \
 Department of Environmental Health Sciences \
 Columbia University Mailman School of Public Health \
