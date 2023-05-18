@@ -1,6 +1,6 @@
 ---
-permalink: /markdown/
-title: "Microbiome Bioinformatics"
+permalink: /microbiome/
+title: "Microbiome Service Core"
 author_profile: true
 redirect_from: 
   - /md/
