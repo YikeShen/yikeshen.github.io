@@ -9,7 +9,7 @@ redirect_from:
 
 ![](webpeopleme.png)\
 
-![](Yike Shen_profile pic 2023.JPG)
+![](Yike Shen_profilepic2023.JPG)
 
 ### Yike Shen, Ph.D.
 Assistant Professor (starting September 2023)\
