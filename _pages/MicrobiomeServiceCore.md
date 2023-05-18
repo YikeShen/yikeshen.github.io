@@ -8,6 +8,12 @@ redirect_from:
 ---
 ![](microbiome-omics_fig_2.png)
 
+## My lab at UT Arlington provides end-to-end microbiome sequencing consultation and collaboration.
+
+* My molecular biology wet laboratory (currently under construction) will start accepting sample BioBank and extractions starting Fall 2024. 
+* Please see the microbiome bioinformatics consultation details below.
+* I am happy to be a Co-I of your R01s and provide high quality microbiome multi-omics service. 
+
 ## Introduction
 * Microbiome sequencing price has dropped substantially. More researchers and companies are interested in learning about microbiome in humans, environment, and animals. Shotgun sequencing has enabled in-depth learning of microbial community structure, pathway, functional potential, and active functions. One answer we ALL want to know about microbiome: Who is there, what are they doing? 
 * Shotgun data is easier to obtain now than before with high throughput sequencing platforms like Illumina NovaSeq6000. However, it is challenging to analyze the data for researchers who don't have coding experience. First, the data generated from shotgun sequencing is huge, usually ranging from 3G to 20G, more than 40 million reads per sample for shotgun metagenome. Shotgun metatreanscriptome is even more challenging, with more than 20G and 150 million reads per sample. The mid-files generated in computation multiply output size. It's easy to have 100 samples metagenome take 4T of storage space, and 160 samples metatranscriptome take 30T of storage space (including intermediate files). Second, because of large data, computation time can exponentially increase. For example, shotgun metagenome assembly and mapping can take up to 20 hours per sample. Shotgun metatranscriptome rRNA, adapter, human genome, and human transcriptome removal take an average of 90 hours of computation time. The computation also consumes large memory(100G). Third, data processing is time-consuming and requires access to supercomputing clusters. Finally, data processing also involves proficient use of python and unix in Linux system.
@@ -37,4 +43,4 @@ I am happy to collaborate with your microbiome projects. I can offer my insights
 Graphics created with BioRender.com. Copy right: Yike Shen
 
 
-Updated 12/18/2022
+Updated 05/17/2023
