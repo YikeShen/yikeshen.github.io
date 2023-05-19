@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-![](IMG_6450.HEIC) 
+![](ShenLabLogo.png) 
 
 ## Opportunities
 ### Two full-ride Ph.D. student positions in Earth and Environmental Sciences
