@@ -13,7 +13,7 @@ redirect_from:
 We are looking for two highly motivated Ph.D. students to join our group starting 2024 Spring or Fall. The Shen Laboratory welcome students with all backgrounds, race/ethnicity, and gender who are interested in environmental health. The successful candidates will work on exciting projects related to Environmental Health Data Science, integrating high-dimensional environmental exposures, multi-omics, and health outcomes through advanced machine learning and statistical methods.\
 Please refer to relevant research [here](https://yikeshen.github.io//research/)
 
-### Position 1: Environmental exposures and microbiome\
+### Position 1: Environmental exposures and microbiome
 ### Position 2: Precision computational environmental health
 
 
