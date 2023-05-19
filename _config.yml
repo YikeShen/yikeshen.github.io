@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shen Environmental Health Data Science Laboratory"
+title                    : "Shen Laboratory"
 title_separator          : "-"
 name                     : &name "Yike Shen"
 description              : &description "Personal Website"
