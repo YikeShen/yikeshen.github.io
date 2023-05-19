@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-![](IMG_6450.HEIC）
+![](IMG_6450.HEIC)
 
 ## Opportunities
 ### Two full-ride Ph.D. student positions in Earth and Environmental Sciences
