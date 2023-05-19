@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-### Dr. Shen will join University of Texas at Arlington as an Assistant Professor in Fall 2023
+### Dr. Shen will join University of Texas at Arlington as an Assistant Professor starting September 2023
 
 We are recruiting 2 full-ride Ph.D. students interested in Environmental Health Data Science. [Join](https://yikeshen.github.io//JoinShenLab/)
 
@@ -20,7 +20,7 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 
 ## News
 
-Our Cohort Network paper and Cover Art is accepted at Environmental Science & Technology!
+Our Cohort Network paper and Cover Art were accepted at Environmental Science & Technology!
 
 Feature article\
 Shen Y. (2022). Harnessing high-dimensional data in environmental health sciences. Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link]( https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
