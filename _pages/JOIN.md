@@ -8,20 +8,32 @@ redirect_from:
 ---
 
 ## Opportunities
+### Two full-ride Ph.D. student positions in Earth and Environmental Sciences
 
-We are looking for two motivated Ph.D. students to join our group starting 2024 Spring or Fall. 
-The successful candidates will work on exciting projects related to Environmental Health Data Science, integrating high-dimensional environmental exposures, multi-omics, and health outcomes through advanced machine learning and statistical methods.\
-See relevant research [here](https://yikeshen.github.io//research/)
+We are looking for two highly motivated Ph.D. students to join our group starting 2024 Spring or Fall. The Shen Laboratory welcome students with all backgrounds, race/ethnicity, and gender who are interested in environmental health. The successful candidates will work on exciting projects related to Environmental Health Data Science, integrating high-dimensional environmental exposures, multi-omics, and health outcomes through advanced machine learning and statistical methods.\
+Please refer to relevant research [here](https://yikeshen.github.io//research/)
 
-### Position 1: 
-
-
-### Position 2: 
+### Position 1: Environmental exposures and microbiome\
+### Position 2: Precision computational environmental health
 
 
 ### Candidate requirement: 
+* BS in Science or Engineering
+* Undergraduate GPA>3.3
+* International students please include TOEFL or IELTS scores in your CV
+* GRE is currently not required for Spring 2024 admission
+* Programming experience is preferred, not required
 
 ### We would offer:
-
+* Competitive salary and benefits
+* Fully covered tuition
+* Rigorous scientific training in environmental health and data science
+* Promising job market after graduation
+* UTA is conveniently located in the Dallas-Fort Worth Metroplex, 4th largest metroplex in the United States
 
 ### To apply: 
+Candidates who are interested in these two positions are encouraged to contact Dr. Yike Shen via email [ys3419@cumc.columbia.edu]() with subject line as "Ph.D. Application_Your Name". Please copy your email to [yike.shen@uta.edu](). Successful candidates will need to submit formal application materials to [UTA online application system](https://www.uta.edu/admissions/apply/graduate). Please include the following documents in your email. 
+* Cover letter that highlights your educational background, research experience and interests, and career goals (1-2 pages)
+* Curriculum vitae
+* Contact information for 2 references (including names, affiliations, and emails)
+* Unofficial transcripts (International students please translate your transcripts into English, except for applicants from China)
