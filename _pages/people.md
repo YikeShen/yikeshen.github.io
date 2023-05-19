@@ -23,5 +23,19 @@ Training:
 * Ph.D. dual major, Environmental Science and Policy, Michigan State University, 2020
 * B.Sc. Environmental and Conservation Sciences, University of Alberta, 2016
 
+
+![](BorisMinasenkoPic.png)
+### Boris Minasenko
+Master of Science Student (Toxicology) \
+Columbia University \
+Bachelor of Science in Applied Mathematics, National Research University Higher School of Economics, Moscow, Russia \
+Master of Science in Mathematical Modelling, National Research University Higher School of Economics, Moscow, Russia
+
+![](XingyuZhangPic.png)
+### Xingyu Zhang
+Master of Public Health Student \
+Columbia University \
+Bachelor of Arts in Environmental Science, Colby College, Waterville, ME, United States
+
 ### You?
 I am hiring two full-ride Ph.D. students, please see Join tab for details. 
