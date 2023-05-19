@@ -30,10 +30,10 @@ Women in Science: we have the power to change the world. Episode 6 – Yike Shen
 
 
 ## Resources
-I support open and transparent research, all code for my publications (leading and/or corresponding authors) are available at my [GitHub Repository](https://github.com/YikeShen?tab=repositories); \
-list of my [publications](https://scholar.google.com/citations?hl=en&user=hLvLhVcAAAAJ&view_op=list_works&sortby=pubdate);\
-list of my [talks](https://yikeshen.github.io//talks/);\
-my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_05172023.pdf)
+We support open and transparent research, all code for my publications (leading and/or corresponding authors) are available at our [GitHub Repository](https://github.com/YikeShen?tab=repositories); \
+list of our [publications](https://scholar.google.com/citations?hl=en&user=hLvLhVcAAAAJ&view_op=list_works&sortby=pubdate);\
+list of Dr. Shen's [talks](https://yikeshen.github.io//talks/);\
+Dr. Shen's [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_05172023.pdf)
 
 ## Contact Information
 Yike Shen \
