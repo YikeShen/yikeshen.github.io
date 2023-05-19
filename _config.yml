@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yike Shen | 沈忆珂"
+title                    : "Shen Environmental Health Data Science Laboratory"
 title_separator          : "-"
 name                     : &name "Yike Shen"
 description              : &description "Personal Website"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yike Shen, Ph.D."
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral Research Scientist"
-  location         : "New York, NY"
-  employer         : "Columbia University"
+  bio              : "Incoming Assistant Professor"
+  location         : "Arlington, Texas"
+  employer         : "University of Texas at Arlington"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hLvLhVcAAAAJ&hl=en"
   email            : "ys3419@cumc.columbia.edu"
