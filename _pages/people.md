@@ -23,7 +23,7 @@ Training:
 * Ph.D. dual major, Environmental Science and Policy, Michigan State University, 2020
 * B.Sc. Environmental and Conservation Sciences, University of Alberta, 2016
 
-
+## Students
 ![](BorisMinasenkoPic.png)
 ### Boris Minasenko
 Master of Science Student (Toxicology) \
