@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-Dr. Shen highlighted in bold; Corresponding authors marked *
+Dr. Shen highlighted in **bold**; Corresponding authors marked *
 
 #### 2023
 1.	**Shen Y**, Kioumourtzoglou MA, Wu H, Spiro A, Vokonas P, Navas-Acien A, Baccarelli AA, Gao F*. (2023). Cohort Network: a knowledge graph towards data dissemination and knowledge-driven discovery for cohort studies. Environmental Science & Technology 57, 8236-8244. Featured as supplemental cover paper. https://pubs.acs.org/doi/abs/10.1021/acs.est.2c08174
