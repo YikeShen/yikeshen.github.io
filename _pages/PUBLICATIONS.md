@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Dr. Shen highlighted in **bold**; Corresponding authors marked*
---------------------------------------------------------
+
     #### 2023
 1.	**Shen Y**, Kioumourtzoglou MA, Wu H, Spiro A, Vokonas P, Navas-Acien A, Baccarelli AA, Gao F*. (2023). Cohort Network: a knowledge graph towards data dissemination and knowledge-driven discovery for cohort studies. Environmental Science & Technology 57, 8236-8244. Featured as supplemental cover paper. [Read](https://pubs.acs.org/doi/abs/10.1021/acs.est.2c08174)
 2.	Prada D, Crandall CJ, Kupsco A, Kioumourtzoglou MA, Stewart JD, Liao D, Yanosky J, Ramirez A, Wactawski-Wende J, **Shen Y**, Miller G, Ionita-Laza IL, Whitsel EA, Baccarelli AA. (2023). Air pollution and decreased bone mineral density among Women’s Health Initiative participants. eClinicalMedicine 57:101864. [Read](https://doi.org/10.1016/j.eclinm.2023.101864)
@@ -32,6 +32,7 @@ Dr. Shen highlighted in **bold**; Corresponding authors marked*
 14.	__Shen Y__, Stedtfeld RD, Guo X, Bhalsod GD, Jeon S, Tiedje JM, Li H, Zhang W*. (2019). Pharmaceutical exposure changed antibiotic resistance genes and bacterial communities in soil-surface- and overhead-irrigated greenhouse lettuce. Environment International 131, 105031. [Read](https://doi.org/10.1016/j.envint.2019.105031)
 
     ### Publication summary:
+
 Microbiome: 1) Shen et al., 2022. Environmental Health Perspectives; 2) Laue and Shen et al., 2022. International Journal of Environmental Research and Public Health; 3) Campana et al., 2022. Environmental Pollution. 4) Shen et al., 2021. Science of the Total Environment; 5) Shen et al., 2021. Chemosphere. 6) Shen et al., 2019. Environment International. 7) Chen et al., 2023. Environmental Microbiology. 
 
 Precision computational environmental health: 1) Shen et al., 2023. Environmental Science & Technology. 2) Shen et al., 2022. Journal of Hazardous Materials; 3) Gao et al., 2022. Environment International (corresponding author); 4) Gao and Shen et al., 2022. Journal of Hazardous Materials; 5) Gao et al., 2021. Environmental Science & Technology; 6) Shen et al., 2021. Journal of Food Protection. 
