@@ -21,6 +21,7 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 ## News
 
 Our Cohort Network paper was published as Cover at Environmental Science & Technology! [Read](https://pubs.acs.org/doi/abs/10.1021/acs.est.2c08174)
+
 ![Cover](est cover.png)
 
 Feature article\
@@ -47,5 +48,5 @@ Email: [ys3419@cumc.columbia.edu](ys3419@cumc.columbia.edu) (Primary)\
 Email: [yike.shen@uta.edu](yike.shen@uta.edu)
 
 
-Updated 05/18/2023
+Updated 06/11/2023
 
