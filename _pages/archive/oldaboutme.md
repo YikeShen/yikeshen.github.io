@@ -20,10 +20,11 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 
 ## News
 
-Our Cohort Network paper was accepted as Cover at Environmental Science & Technology!
+Our Cohort Network paper was published as Cover at Environmental Science & Technology! [Read](https://pubs.acs.org/doi/abs/10.1021/acs.est.2c08174)
+![Cover](est cover.png)
 
 Feature article\
-Shen Y. (2022). Harnessing high-dimensional data in environmental health sciences. Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link]( https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
+Shen Y. (2022). Harnessing high-dimensional data in environmental health sciences. Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link](https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
 
 Interview\
 Women in Science: we have the power to change the world. Episode 6 – Yike Shen. UCLA GradSWE interview series hosted by Yifan Gao. December 22, 2022. [Interview link](https://www.youtube.com/watch?v=W0Nmf7P1KAM&ab_channel=GradSWEUCLA)
