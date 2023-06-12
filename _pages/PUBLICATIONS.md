@@ -7,9 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
-Dr. Shen highlighted in **bold**; Corresponding authors marked *
+Dr. Shen highlighted in **bold**; Corresponding authors marked*
 
-   #### 2023
+    ####2023
 1.	**Shen Y**, Kioumourtzoglou MA, Wu H, Spiro A, Vokonas P, Navas-Acien A, Baccarelli AA, Gao F*. (2023). Cohort Network: a knowledge graph towards data dissemination and knowledge-driven discovery for cohort studies. Environmental Science & Technology 57, 8236-8244. Featured as supplemental cover paper. [Read](https://pubs.acs.org/doi/abs/10.1021/acs.est.2c08174)
 2.	Prada D, Crandall CJ, Kupsco A, Kioumourtzoglou MA, Stewart JD, Liao D, Yanosky J, Ramirez A, Wactawski-Wende J, **Shen Y**, Miller G, Ionita-Laza IL, Whitsel EA, Baccarelli AA. (2023). Air pollution and decreased bone mineral density among Women’s Health Initiative participants. eClinicalMedicine 57:101864. [Read](https://doi.org/10.1016/j.eclinm.2023.101864)
 3.	Chen Z, Zhang W, Peng A, **Shen Y**, Jin X, Boyd SA, Teppen BJ, Tiedje JM, Gu C, Zhu D, Luo Y, Li H*. (2023). Bacterial community assembly and antibiotic resistance genes in soils exposed to antibiotics at environmentally relevant concentrations. Environmental Microbiology. [Read](https://doi.org/10.1111/1462-2920.16371)
