@@ -23,7 +23,7 @@ Shotgun metagenome sequencing workflow example conceptual
 ![Shotgun metagenome sequencing workflow example conceptual](metagenome_bioinformatics_conceptual_121822.png)
 
 Shotgun metatranscriptome sequencing workflow example conceptual
-![Shotgun metatranscriptome sequencing workflow example conceptual](metatranscriptome_bioinformatics_conceptual_121822.png)
+![Shotgun metatranscriptome sequencing workflow example conceptual](metatranscriptome_bioinformatics_conceptual_061223.png)
 
 ### Notes:
 * I often see people using human databases for environmental samples in shotgun metagenomic sequencing. It is not wrong, but you are only mapping up to 20% of your environmental sample reads into the human database. Analyze shotgun metagenomic sequencing for environmental samples are more challenging. I recommend the researchers identify the goal of the research and use assembly based approaches. 
@@ -43,4 +43,4 @@ I am happy to collaborate with your microbiome projects. I can offer my insights
 Graphics created with BioRender.com. Copy right: Yike Shen
 
 
-Updated 05/17/2023
+Updated 06/12/2023
