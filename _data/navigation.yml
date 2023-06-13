@@ -16,8 +16,8 @@ main:
   - title: "Publications"
     url: /Publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Presentations"
+    url: /Presentations/    
 
   - title: "Microbiome Service Core"
     url: /microbiome/   
@@ -25,6 +25,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-
+  #- title: "Talks"
+  #  url: /talks/
     
 
