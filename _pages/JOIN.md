@@ -34,7 +34,7 @@ Please refer to relevant research [here](https://yikeshen.github.io//research/)
 * UTA is conveniently located in the Dallas-Fort Worth Metroplex, 4th largest metroplex in the United States
 
 ### To apply: 
-Candidates who are interested in these two positions are encouraged to contact Dr. Yike Shen via email [ys3419@cumc.columbia.edu]() with subject line as "Ph.D. Application_Your Name". Please copy your email to [yike.shen@uta.edu](). Successful candidates will need to submit formal application materials to [UTA online application system](https://www.uta.edu/admissions/apply/graduate). Spring 2024 candidates must submit your formal application to the online application system by 08/15/2023. Please include the following documents in your email inquiry. 
+Candidates who are interested in these two positions are encouraged to contact Dr. Yike Shen via email [yike.shen@uta.edu]() with subject line as "Ph.D. Application_Your Name". Successful candidates will need to submit formal application materials to [UTA online application system](https://www.uta.edu/admissions/apply/graduate). Spring 2024 candidates must submit your formal application to the online application system by 08/15/2023. Please include the following documents in your email inquiry. 
 * Cover letter that highlights your educational background, research experience and interests, and career goals (1-2 pages)
 * Curriculum vitae
 * Contact information for 2 references (including names, affiliations, and emails)
