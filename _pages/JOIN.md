@@ -10,7 +10,7 @@ redirect_from:
 ![](ShenLabLogo.png) 
 
 ## Opportunities
-### Two full-ride Ph.D. student positions in Earth and Environmental Sciences
+### Two full-ride Ph.D. student positions in Earth and Environmental Sciences at The University of Texas at Arlington
 
 We are looking for two highly motivated Ph.D. students to join our group starting 2024 Spring or Fall. The Shen Laboratory welcome students with all backgrounds, race/ethnicity, and gender who are interested in environmental health. The successful candidates will work on exciting projects related to Environmental Health Data Science, integrating high-dimensional environmental exposures, multi-omics, and health outcomes through advanced machine learning and statistical methods. Applications are reviewed as soon as they are received. \
 Please refer to relevant research [here](https://yikeshen.github.io//research/)
@@ -39,3 +39,5 @@ Candidates who are interested in these two positions are encouraged to contact D
 * Curriculum vitae
 * Contact information for 2 references (including names, affiliations, and emails)
 * Unofficial transcripts (International students please translate your transcripts into English, except for applicants from China)
+
+#### Please note, all incomplete or spam email applications will not be considered. 
