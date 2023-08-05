@@ -45,6 +45,6 @@ University of Texas at Arlington \
 Arlington, Texas 76019\
 Email: [yike.shen@uta.edu](yike.shen@uta.edu)
 
-#### Please forward your emails to my UTA email address, my Columbia email address will be deactivated soon. 
+#### Please forward your emails to my UTA email address. My Columbia email address will be deactivated soon. 
 Updated 08/05/2023
 
