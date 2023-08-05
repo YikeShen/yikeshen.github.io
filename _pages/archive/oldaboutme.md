@@ -39,14 +39,12 @@ Dr. Shen's [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CY
 
 ## Contact Information
 Yike Shen \
-Department of Environmental Health Sciences \
-Columbia University Mailman School of Public Health \
-630 West 168th Street \
-P&S Building, Room 16-416 \
-New York, New York 10032\
-Email: [ys3419@cumc.columbia.edu](ys3419@cumc.columbia.edu) (Primary)\
+Department of Earth and Environmental Sciences \
+University of Texas at Arlington \
+500 Yates Street, Room 217 \
+Arlington, Texas 76019\
 Email: [yike.shen@uta.edu](yike.shen@uta.edu)
 
-
-Updated 06/12/2023
+#### Please forward your emails to my UTA email address, my Columbia email address will be deactivated soon. 
+Updated 08/05/2023
 
