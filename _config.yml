@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yike Shen, Ph.D."
   avatar           : "profile.jpg"
-  bio              : "Incoming Assistant Professor"
+  bio              : "Assistant Professor"
   location         : "Arlington, Texas"
   employer         : "University of Texas at Arlington"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hLvLhVcAAAAJ&hl=en"
-  email            : "ys3419@cumc.columbia.edu"
+  email            : "yike.shen@uta.edu"
   researchgate     : "https://www.researchgate.net/profile/Yike-Shen-2"
   uri              :
   bitbucket        :
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0001-8480-8258"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "@shen_yike"
