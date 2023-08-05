@@ -38,7 +38,7 @@ list of Dr. Shen's [talks](https://yikeshen.github.io//talks/);\
 Dr. Shen's [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_06122023.pdf)
 
 ## Contact Information
-Yike Shen \
+Yike Shen, Ph.D. \
 Department of Earth and Environmental Sciences \
 University of Texas at Arlington \
 500 Yates Street, Room 217 \
