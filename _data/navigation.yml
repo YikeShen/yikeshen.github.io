@@ -19,13 +19,15 @@ main:
   - title: "Presentations"
     url: /Presentations/    
 
+  - title: "Teaching"
+    url: /teaching/
+    
   - title: "Microbiome Service Core"
     url: /microbiome/   
             
   - title: "Blog Posts"
     url: /year-archive/
     
-  #- title: "Talks"
-  #  url: /talks/
+
     
 
