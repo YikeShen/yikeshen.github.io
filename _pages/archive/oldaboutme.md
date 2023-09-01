@@ -15,7 +15,7 @@ We are recruiting 2 full-ride Ph.D. students interested in Environmental Health 
 
 The Shen Laboratory focuses on Environmental Health Data Science where we integrate environmental exposures, multi-omics, and health outcomes. We approach this framework through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data.
 
-[UTA Faculty profile](https://www.uta.edu/academics/faculty/profile?username=sheny4)
+[Dr. Shen UTA Faculty profile](https://www.uta.edu/academics/faculty/profile?username=sheny4)
 
 ## News
 
