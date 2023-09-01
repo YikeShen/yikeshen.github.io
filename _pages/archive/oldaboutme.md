@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### Dr. Shen will join University of Texas at Arlington as an Assistant Professor starting September 2023
-
 We are recruiting 2 full-ride Ph.D. students interested in Environmental Health Data Science. [Join](https://yikeshen.github.io//JoinShenLab/)
 
 ![](Theme_watermark.png)
@@ -39,12 +37,13 @@ Dr. Shen's [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CY
 
 ## Contact Information
 Yike Shen, Ph.D. \
+Assistant Professor \
 Department of Earth and Environmental Sciences \
 University of Texas at Arlington \
 500 Yates Street, Room 217 \
 Arlington, Texas 76019\
 Email: [yike.shen@uta.edu](yike.shen@uta.edu)
 
-#### Please forward your emails to my UTA email address. My Columbia email address will be deactivated soon. 
-Updated 08/05/2023
+#### Please forward your emails to my UTA email address. My Columbia email address is now deactivated. 
+Updated 09/01/2023
 
