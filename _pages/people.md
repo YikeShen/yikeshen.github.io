@@ -10,11 +10,10 @@ redirect_from:
 ![](webpeopleme.png)
 
 ### Yike Shen, Ph.D.
-Assistant Professor (starting September 2023) \
+Assistant Professor \
 Department of Earth and Environmental Sciences \
 University of Texas at Arlington \
 Email: yike.shen@uta.edu \
-Email: ys3419@cumc.columbia.edu \
 my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_05172023.pdf) 
 
 Training: 
