@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-We are recruiting 2 full-ride Ph.D. students interested in Environmental Health Data Science. [Join](https://yikeshen.github.io//JoinShenLab/)
 
 ![](Theme_watermark.png)
 
@@ -34,7 +33,7 @@ Women in Science: we have the power to change the world. Episode 6 – Yike Shen
 We support open and transparent research, all code for our publications (leading and/or corresponding authors) are available at our [GitHub Repository](https://github.com/YikeShen?tab=repositories); \
 list of our [publications](https://scholar.google.com/citations?hl=en&user=hLvLhVcAAAAJ&view_op=list_works&sortby=pubdate);\
 list of Dr. Shen's [talks](https://yikeshen.github.io//talks/);\
-Dr. Shen's [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_06122023.pdf)
+Dr. Shen's [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_09012023.pdf)
 
 ## Contact Information
 Yike Shen, Ph.D. \
