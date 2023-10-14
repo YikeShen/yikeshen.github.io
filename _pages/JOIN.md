@@ -10,13 +10,14 @@ redirect_from:
 ![](ShenLabLogo.png) 
 
 ## Opportunities
-### Two full-ride Ph.D. student positions in Earth and Environmental Sciences at The University of Texas at Arlington
+### Admission to the Shen Lab is rolling-based. We are always looking for motivated students. 
+### Please note we are currently not hiring any postdocs. 
 
-We are looking for two highly motivated Ph.D. students to join our group starting 2024 Spring or Fall. The Shen Laboratory welcome students with all backgrounds, race/ethnicity, and gender who are interested in environmental health. The successful candidates will work on exciting projects related to Environmental Health Data Science, integrating high-dimensional environmental exposures, multi-omics, and health outcomes through advanced machine learning and statistical methods. Applications are reviewed as soon as they are received. \
+We are looking for motivated Ph.D. students to join our group. The Shen Laboratory welcomes students with all backgrounds, race/ethnicity, and gender who are interested in environmental health. The successful candidates will work on exciting projects related to Environmental Health Data Science, integrating high-dimensional environmental exposures, multi-omics, and health outcomes through advanced machine learning and statistical methods. Applications are reviewed as soon as they are received. \
 Please refer to relevant research [here](https://yikeshen.github.io//research/)
 
-### Position 1: Environmental exposures and microbiome
-### Position 2: Precision computational environmental health
+### Direction 1: Environmental exposures and microbiome
+### Direction 2: Precision computational environmental health
 
 
 ### Candidate requirement: 
@@ -34,7 +35,7 @@ Please refer to relevant research [here](https://yikeshen.github.io//research/)
 * UTA is conveniently located in the Dallas-Fort Worth Metroplex, 4th largest metroplex in the United States
 
 ### To apply: 
-Candidates who are interested in these two positions are encouraged to contact Dr. Yike Shen via email [yike.shen@uta.edu]() with subject line as "Ph.D. Application_Your Name". Successful candidates will need to submit formal application materials to [UTA online application system](https://www.uta.edu/admissions/apply/graduate). Spring 2024 candidates must submit your formal application to the online application system by 08/15/2023. Please include the following documents in your email inquiry. 
+Candidates who are interested in Ph.D. positions are encouraged to contact Dr. Yike Shen via email [yike.shen@uta.edu]() with subject line as "Ph.D. Application_Your Name". Successful candidates will need to submit formal application materials to [UTA online application system](https://www.uta.edu/admissions/apply/graduate). Please include the following documents in your email inquiry. 
 * Cover letter that highlights your educational background, research experience and interests, and career goals (1-2 pages)
 * Curriculum vitae
 * Contact information for 2 references (including names, affiliations, and emails)
