@@ -11,7 +11,6 @@ redirect_from:
 
 ## Opportunities
 ### Admission to the Shen Lab is rolling-based. We are always looking for motivated students. 
-### Please note we are currently not hiring any postdocs. 
 
 We are looking for motivated Ph.D. students to join our group. The Shen Laboratory welcomes students with all backgrounds, race/ethnicity, and gender who are interested in environmental health. The successful candidates will work on exciting projects related to Environmental Health Data Science, integrating high-dimensional environmental exposures, multi-omics, and health outcomes through advanced machine learning and statistical methods. Applications are reviewed as soon as they are received. \
 Please refer to relevant research [here](https://yikeshen.github.io//research/)
@@ -24,7 +23,7 @@ Please refer to relevant research [here](https://yikeshen.github.io//research/)
 * BS in Science or Engineering
 * Undergraduate GPA>3.3
 * International students please include TOEFL or IELTS scores in your CV
-* GRE is currently not required for Spring 2024 admission
+* GRE is currently not required
 * Programming experience is preferred, not required
 
 ### We would offer:
