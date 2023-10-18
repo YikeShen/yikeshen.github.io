@@ -19,6 +19,8 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 
 ## News
 
+Dr. Shen recevied The University of Texas System Rising STARs award, a $100,000 competitive internal funding to help build #ShenLab. 
+
 Our Cohort Network paper was published as Cover at Environmental Science & Technology! [Read](https://pubs.acs.org/doi/abs/10.1021/acs.est.2c08174)
 
 ![Cover](estcover.png)
