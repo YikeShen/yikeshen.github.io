@@ -19,13 +19,13 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 
 ## News
 
-September 2023, Dr. Shen recevied The University of Texas System Rising STARs award, a $100,000 competitive internal funding to help build #ShenLab. \
+September 2023, Dr. Shen recevied The University of Texas System Rising STARs award, a $100,000 competitive internal funding to help build #ShenLab. 
 
-September 2023, Grand opening of The Shen Laboratory at the Department of Earth and Environmental Sciences, University of Texas at Arlington\
+September 2023, Grand opening of The Shen Laboratory at the Department of Earth and Environmental Sciences, University of Texas at Arlington
 
 May 2023, Our Cohort Network paper was published as Cover at Environmental Science & Technology! [Read](https://pubs.acs.org/doi/abs/10.1021/acs.est.2c08174)
 
-![Cover](estcover.png)\
+![Cover](estcover.png)
 
 Find full list of publication [here] (https://yikeshen.github.io//Publications/)
 
