@@ -15,15 +15,19 @@ redirect_from:
 The Shen Laboratory focuses on Environmental Health Data Science where we integrate environmental exposures, multi-omics, and health outcomes. We approach this framework through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data.
 
 [Dr. Shen UTA Faculty profile](https://www.uta.edu/academics/faculty/profile?username=sheny4)\
-[Dr. Shen CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_09012023.pdf)
+[Dr. Shen CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_102423.pdf)
 
 ## News
 
-Dr. Shen recevied The University of Texas System Rising STARs award, a $100,000 competitive internal funding to help build #ShenLab. 
+September 2023, Dr. Shen recevied The University of Texas System Rising STARs award, a $100,000 competitive internal funding to help build #ShenLab. \
 
-Our Cohort Network paper was published as Cover at Environmental Science & Technology! [Read](https://pubs.acs.org/doi/abs/10.1021/acs.est.2c08174)
+September 2023, Grand opening of The Shen Laboratory at the Department of Earth and Environmental Sciences, University of Texas at Arlington\
 
-![Cover](estcover.png)
+May 2023, Our Cohort Network paper was published as Cover at Environmental Science & Technology! [Read](https://pubs.acs.org/doi/abs/10.1021/acs.est.2c08174)
+
+![Cover](estcover.png)\
+
+Find full list of publication [here] (https://yikeshen.github.io//Publications/)
 
 Feature article\
 Shen Y. (2022). Harnessing high-dimensional data in environmental health sciences. Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link](https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
