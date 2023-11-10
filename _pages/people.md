@@ -37,11 +37,11 @@ I am hiring two full-ride Ph.D. students, please see Join tab for details.
 ## Lab Alumni
 ![](BorisMinasenkoPic.png)
 ### Boris Minasenko
-January 2023-September 2023\
-- Next position: Bioinformatics Analyst at Emory University Rollins School of Public Health\
-- MS thesis: Dimensionality Reduction and Clustering of Epigenome-wide DNA Methylation Profiles in Cancer Subtypes: A Comparative Analysis of PCA, t-SNE, UMAP, and Autoencoder Approaches (manuscript in prepration)\
-- Master of Science in Toxicology, Columbia University, New York, NY\
-- Bachelor of Science in Applied Mathematics, National Research University Higher School of Economics, Moscow, Russia \
+January 2023-September 2023
+- Next position: Bioinformatics Analyst at Emory University Rollins School of Public Health
+- MS thesis: Dimensionality Reduction and Clustering of Epigenome-wide DNA Methylation Profiles in Cancer Subtypes: A Comparative Analysis of PCA, t-SNE, UMAP, and Autoencoder Approaches (manuscript in prepration)
+- Master of Science in Toxicology, Columbia University, New York, NY
+- Bachelor of Science in Applied Mathematics, National Research University Higher School of Economics, Moscow, Russia
 - Master of Science in Mathematical Modelling, National Research University Higher School of Economics, Moscow, Russia
 
 
