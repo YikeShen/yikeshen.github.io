@@ -15,7 +15,7 @@ redirect_from:
 The Shen Laboratory focuses on Environmental Health Data Science where we integrate environmental exposures, multi-omics, and health outcomes. We approach this framework through computational precision environmental health and biomarker discovery from high dimensional omics and environmental exposure data.
 
 [Dr. Shen UTA Faculty profile](https://www.uta.edu/academics/faculty/profile?username=sheny4)\
-[Dr. Shen CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_102423.pdf)
+[Dr. Shen CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_120923.pdf)
 
 ## News
 
