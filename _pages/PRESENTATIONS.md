@@ -38,22 +38,28 @@ Presenter highlighted in **bold**
 
 ### Invited Oral Presentations
 2023
-1.	**Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. February 7, 2023. Invited by University of California, Riverside, Riverside, CA, United States.
-2.	**Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. January 27, 2023. Invited by University of Texas at Arlington, Arlington, TX, United States.
+1. **Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. December 13, 2023. Invited by Icahn School of Medicine at Mount Sinai, New York, NY, United States (Grand Rounds seminar). 
+2. **Yike Shen**. Academic Interviewing and Negotiation, 2022-2023 cycle. October 10, 2023. Invited by Columbia University, New York, NY, United States (virtual seminar). 
+3. **Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. September 13, 2023. Invited by Baylor University, Waco, TX, United States.
+4. **Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. February 7, 2023. Invited by University of California, Riverside, Riverside, CA, United States.
+5.	**Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. January 27, 2023. Invited by University of Texas at Arlington, Arlington, TX, United States.
     #### 2022
-3.	**Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. November 18, 2022. Invited by Texas A&M University, College Station, TX, United States.
-4.	**Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. October 24, 2022. Invited by University of Kentucky, Lexington, KY, United States.
-5.	**Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. October 15, 2022. Invited by Westlake University, Hangzhou, Zhejiang, China (virtual seminar). 
-6.	**Yike Shen**. Harnessing high dimensional exposure and omics data in environmental health sciences. September 15, 2022. Invited by Journal of Eco-Environment & Health. Nanjing, Jiangsu, China (virtual webinar). Over 2000 audiences listened to the webinar. 
-7.	**Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. September 13, 2022. Invited by Columbia University P30 Center – The NIEHS Center for Environmental Health and Justice in Northern Manhattan, New York, NY, United States (virtual seminar). 
-8.	**Yike Shen**. Navigating Ph.D. July 26, 2022. Invited by Aarhus University, Denmark (virtual seminar). 
-9.	**Yike Shen**. Harnessing High Dimensional Exposure and Omics Data in Environmental Health Sciences. February 21, 2022. Department of Environmental Health Sciences, Columbia University, New York, NY, United States. 
+6.	**Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. November 18, 2022. Invited by Texas A&M University, College Station, TX, United States.
+7.	**Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. October 24, 2022. Invited by University of Kentucky, Lexington, KY, United States.
+8.	**Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. October 15, 2022. Invited by Westlake University, Hangzhou, Zhejiang, China (virtual seminar). 
+9.	**Yike Shen**. Harnessing high dimensional exposure and omics data in environmental health sciences. September 15, 2022. Invited by Journal of Eco-Environment & Health. Nanjing, Jiangsu, China (virtual webinar). Over 2000 audiences listened to the webinar. 
+10.	**Yike Shen**. High dimensional exposures, multi-omics, and machine learning in environmental health. September 13, 2022. Invited by Columbia University P30 Center – The NIEHS Center for Environmental Health and Justice in Northern Manhattan, New York, NY, United States (virtual seminar). 
+11.	**Yike Shen**. Navigating Ph.D. July 26, 2022. Invited by Aarhus University, Denmark (virtual seminar). 
+12.	**Yike Shen**. Harnessing High Dimensional Exposure and Omics Data in Environmental Health Sciences. February 21, 2022. Department of Environmental Health Sciences, Columbia University, New York, NY, United States. 
     #### 2021
-10.	**Yike Shen**. Deep Learning based Network Analysis in the Normative Aging Study. December 10, 2021. Invited by Columbia University Data Science and Health Initiative, New York, NY, United States (virtual seminar).
-11.	**Yike Shen**. GESTE Microbiome. June 22, 2021. Invited by Département de Pédiatrie, Université de Sherbrooke, Quebec, Canada (virtual seminar).
+13.	**Yike Shen**. Deep Learning based Network Analysis in the Normative Aging Study. December 10, 2021. Invited by Columbia University Data Science and Health Initiative, New York, NY, United States (virtual seminar).
+14.	**Yike Shen**. GESTE Microbiome. June 22, 2021. Invited by Département de Pédiatrie, Université de Sherbrooke, Quebec, Canada (virtual seminar).
     #### 2017-2020
-12.	**Yike Shen**. Antibiotic Resistance in Vegetable Production and Consumer Preferences. April 1, 2020. Invited by Michigan State University, East Lansing, MI, United States.
-13.	**Yike Shen**. Antibiotic Resistance in Vegetable Production and Consumer Preferences. February 18, 2020. Invited by Columbia University, New York, NY, United States.
-14.	**Yike Shen**. Assessing Antibiotics, Antibiotic Resistance Genes and Microbiome in Lettuce and Food Safety Related Consumer Preference. (Invited and presented in-person in six institutions)\
+15.	**Yike Shen**. Antibiotic Resistance in Vegetable Production and Consumer Preferences. April 1, 2020. Invited by Michigan State University, East Lansing, MI, United States.
+16.	**Yike Shen**. Antibiotic Resistance in Vegetable Production and Consumer Preferences. February 18, 2020. Invited by Columbia University, New York, NY, United States.
+17.	**Yike Shen**. Assessing Antibiotics, Antibiotic Resistance Genes and Microbiome in Lettuce and Food Safety Related Consumer Preference. (Invited and presented in-person in six institutions)\
 Invited Westlake University, Hangzhou, Zhejiang, China. January 17, 2020; Invited by Institute of Nuclear-Agricultural Science, Zhejiang University, Hangzhou, Zhejiang, China. January 16, 2020; Invited by College of Environmental Science and Engineering, Nankai University, Tianjin, China. January 14, 2020; Invited by Institute of Plant Protection, Chinese Academy of Agricultural Sciences, Beijing, China. January 13, 2020; Invited by Institute of Soil-Water Resource and Environment, Zhejiang University, Hangzhou, Zhejiang, China. January 6, 2020; Invited by the International Youth Scholars Forum of Zhejiang A&F University, Zhejiang A&F University, Hangzhou, Zhejiang, China. December 28, 2019.
-15.	**Yike Shen**. The T concept of research in Environmental Dimension of Antimicrobial Resistance – Perspectives from an interdisciplinary Environmental Scientist in training. December 25, 2017. Invited by Institute of Soil-Water Resource and Environment, Zhejiang University, Hangzhou, Zhejiang, China. 
+18.	**Yike Shen**. The T concept of research in Environmental Dimension of Antimicrobial Resistance – Perspectives from an interdisciplinary Environmental Scientist in training. December 25, 2017. Invited by Institute of Soil-Water Resource and Environment, Zhejiang University, Hangzhou, Zhejiang, China. 
+
+### Forum Panelist
+1.	Public Health in the Next Decade: Discussion with the incoming Dean of Harvard University Chan School of Public Health. Panelist: Drs. Andrea Baccarelli (Columbia University), **Yike Shen** (UT Arlington), Xinlei Wang (UT Arlington), Yang Xie (UT Southwestern Medical Center), Elizabeth Merwin (UT Arlington), Yue Liao (UT Arlington). University of Texas at Arlington, Arlington, TX, October 20, 2023. Dr. Shen is the event host.
