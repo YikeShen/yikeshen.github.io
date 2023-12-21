@@ -30,7 +30,7 @@ March 2023-present \
 Master of Public Health Student at Columbia University \
 Bachelor of Arts in Environmental Science, Colby College, Waterville, ME, United States
 
-### Timileyin Adediran, Ph.D., 
+### Timileyin Adediran, Ph.D.
 September 2023 – present \
 Postdoctoral Research Fellow at University of Michigan \
 Serve as NIH R25 Career Mode mentor.
