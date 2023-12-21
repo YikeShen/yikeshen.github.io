@@ -14,7 +14,7 @@ Assistant Professor \
 Department of Earth and Environmental Sciences \
 University of Texas at Arlington \
 Email: yike.shen@uta.edu \
-my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_120923.pdf) 
+my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_122023.pdf) 
 
 Training: 
 * Postdoctoral Research Scientist, Department of Environmental Health Sciences, Columbia University in the City of New York, 06/2020-08/2023
@@ -22,17 +22,27 @@ Training:
 * Ph.D. dual major, Environmental Science and Policy, Michigan State University, 2020
 * B.Sc. Environmental and Conservation Sciences, University of Alberta, 2016
 
-## Students
+## Mentees
 
 ![](XingyuZhangPic.png)
 ### Xingyu Zhang
-Master of Public Health Student \
-Columbia University \
+March 2023-present
+Master of Public Health Student at Columbia University \
 Bachelor of Arts in Environmental Science, Colby College, Waterville, ME, United States
+
+### Timileyin Adediran, Ph.D., 
+September 2023 – present
+Postdoctoral Research Fellow at University of Michigan.
+Serve as NIH R25 Career Mode mentor.
+
+### Maryam Ghalamkari
+October 2023 – present
+Ph.D., student, University of Texas at Arlington. 
+Ph.D. dissertation committee member. Dissertation chair [Dr. Un-Jung Kim](https://www.uta.edu/academics/faculty/profile?username=kimu).
 
 
 ### You?
-I am hiring two full-ride Ph.D. students, please see Join tab for details. 
+I am hiring full-ride Ph.D. students, please see Join tab for details. 
 
 ## Lab Alumni
 ![](BorisMinasenkoPic.png)
@@ -41,8 +51,7 @@ January 2023-September 2023
 - Next position: Bioinformatics Analyst at Emory University Rollins School of Public Health
 - MS thesis: Dimensionality Reduction and Clustering of Epigenome-wide DNA Methylation Profiles in Cancer Subtypes: A Comparative Analysis of PCA, t-SNE, UMAP, and Autoencoder Approaches (manuscript in prepration)
 - Master of Science in Toxicology, Columbia University, New York, NY
-- Bachelor of Science in Applied Mathematics, National Research University Higher School of Economics, Moscow, Russia
-- Master of Science in Mathematical Modelling, National Research University Higher School of Economics, Moscow, Russia
+
 
 
 
