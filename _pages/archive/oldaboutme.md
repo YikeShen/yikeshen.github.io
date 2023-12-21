@@ -34,7 +34,7 @@ May 2023, Our Cohort Network paper was published as Cover at Environmental Scien
 
 ![Cover](estcover.png)
 
-Fall 2022-Spring 2023, Dr. Shen gave invited lectures at University of Texas at Arlington, Texas A&M University-College Station, University of California, Riverside, and University of Kentucky. 
+Fall 2022-Spring 2023, Dr. Shen gave invited lectures at University of Texas at Arlington, Texas A&M University-College Station, University of California, Riverside, and University of Kentucky.  
 
 Feature article\
 Shen Y. (2022). Harnessing high-dimensional data in environmental health sciences. Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link](https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
