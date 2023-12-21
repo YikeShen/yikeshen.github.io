@@ -28,14 +28,10 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 
 ![Cover](estcover.png)
 
-- Spring 2023, Shen Laboratory website launched. [research](https://yikeshen.github.io//research/); [publications](https://scholar.google.com/citations?hl=en&user=hLvLhVcAAAAJ&view_op=list_works&sortby=pubdate); [talks](https://yikeshen.github.io//talks/);[teaching](https://yikeshen.github.io//teaching/); [join us](https://yikeshen.github.io//JoinShenLab/)
+- Spring 2023, Shen Laboratory website launched. [research](https://yikeshen.github.io//research/); [publications](https://scholar.google.com/citations?hl=en&user=hLvLhVcAAAAJ&view_op=list_works&sortby=pubdate); [talks](https://yikeshen.github.io//talks/); [teaching](https://yikeshen.github.io//teaching/); [join us](https://yikeshen.github.io//JoinShenLab/)
 - Fall 2022-Spring 2023, Dr. Shen gave invited lectures at University of Texas at Arlington, Texas A&M University-College Station, University of California, Riverside, and University of Kentucky.  
-
-Feature article\
-Shen Y. (2022). Harnessing high-dimensional data in environmental health sciences. Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link](https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
-
-Interview\
-Women in Science: we have the power to change the world. Episode 6 – Yike Shen. UCLA GradSWE interview series hosted by Yifan Gao. December 22, 2022. [Interview link](https://www.youtube.com/watch?v=W0Nmf7P1KAM&ab_channel=GradSWEUCLA)
+- December 2022, Dr. Shen was featured in article "Harnessing high-dimensional data in environmental health sciences" Research Features. DOI: 10.26904/RF-144-3452044615. [Feature article link](https://researchfeatures.com/wp-content/uploads/2022/11/Yike-Shen.pdf)
+- December 2022, Dr. Shen was interviewed by UCLA GradSWE "Women in Science: we have the power to change the world" interview series hosted by Yifan Gao. Episode 6 – Yike Shen. [Interview link](https://www.youtube.com/watch?v=W0Nmf7P1KAM&ab_channel=GradSWEUCLA)
 
 
 ## Resources
@@ -54,5 +50,5 @@ Arlington, Texas 76019\
 Email: [yike.shen@uta.edu](yike.shen@uta.edu)
 
 #### Please forward your emails to my UTA email address. My Columbia email address is now deactivated. 
-Updated 11/10/2023
+Updated 12/21/2023
 
