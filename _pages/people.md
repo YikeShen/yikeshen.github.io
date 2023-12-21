@@ -37,7 +37,7 @@ Serve as NIH R25 Career Mode mentor.
 
 ### Maryam Ghalamkari
 October 2023 – present \
-Ph.D., student, University of Texas at Arlington \ 
+Ph.D. student, University of Texas at Arlington \
 Ph.D. dissertation committee member. Dissertation chair [Dr. Un-Jung Kim](https://www.uta.edu/academics/faculty/profile?username=kimu).
 
 
