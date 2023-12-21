@@ -21,7 +21,7 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 - December 2023, Dr. Shen received 100%, 5/5 course evaluation for Fall 23 ENVR 4199 Seminars in Earth and Environmental Sciences Course. 
 - Fall 2023, Dr. Shen gave invited lectures at Icahn School of Medicine at Mount Sinai in NYC and Baylor University in Waco, TX. 
 
-December 2023, Dr. Shen received Doctoral Recruiting Grant from The University of Texas at Arlington Graduate School, a grant for six prospective Ph.D. student on campus visits. 
+- December 2023, Dr. Shen received Doctoral Recruiting Grant from The University of Texas at Arlington Graduate School, a grant for six prospective Ph.D. student on campus visits. 
 
 October 2023, Dr. Shen gave an invited lecture on Academic Interviewing and Negotiation at Columbia University. 
 
