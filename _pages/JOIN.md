@@ -43,12 +43,13 @@ Candidates who are interested in Ph.D. positions are encouraged to contact Dr. Y
 * Unofficial transcripts (International students please translate your transcripts into English, except for applicants from China)
 
 # Master students
-Master students are typically admitted through the Department of Earth and Environmental Sciences as non-thesis non-funded option. Students have the opportunity to work with a Professor after they started their program to transfer to thesis option. 
-Please read the instruction to [apply](http://catalog.uta.edu/science/earth/graduate/#masterstext)
+Master students are typically admitted through the Department of Earth and Environmental Sciences as non-thesis non-funded option. Students have the opportunity to work with a Professor after they start their program to transfer to thesis option. 
+Please read the instruction to [apply](http://catalog.uta.edu/science/earth/graduate/#masterstext).
 
 # Undergraduate students
 UTA undergraduate students, please send an email inquiry to Dr. Shen about potential undergraduate research opportunities. 
 
 # Postdocs
 We are currenly not looking for postdocs at this point. 
+
 #### Please note, all incomplete or spam email applications will not be considered. 
