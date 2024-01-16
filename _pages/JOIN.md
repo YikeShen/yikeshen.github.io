@@ -10,8 +10,10 @@ redirect_from:
 ![](ShenLabLogo.png) 
 
 ## Opportunities
+
 ### Admission to the Shen Lab is rolling-based. We are always looking for motivated students. 
 
+# Ph.D. students
 We are looking for motivated Ph.D. students to join our group. The Shen Laboratory welcomes students with all backgrounds, race/ethnicity, and gender who are interested in environmental health. The successful candidates will work on exciting projects related to Environmental Health Data Science, integrating high-dimensional environmental exposures, multi-omics, and health outcomes through advanced machine learning and statistical methods. Applications are reviewed as soon as they are received. \
 Please refer to relevant research [here](https://yikeshen.github.io//research/)
 
@@ -40,4 +42,13 @@ Candidates who are interested in Ph.D. positions are encouraged to contact Dr. Y
 * Contact information for 2 references (including names, affiliations, and emails)
 * Unofficial transcripts (International students please translate your transcripts into English, except for applicants from China)
 
+# Master students
+Master students are typically admitted through the Department of Earth and Environmental Sciences as non-thesis non-funded option. Students have the opportunity to work with a Professor after they started their program to transfer to thesis option. 
+Please read the instruction to [apply](http://catalog.uta.edu/science/earth/graduate/#masterstext)
+
+# Undergraduate students
+UTA undergraduate students, please send an email inquiry to Dr. Shen about potential undergraduate research opportunities. 
+
+# Postdocs
+We are currenly not looking for postdocs at this point. 
 #### Please note, all incomplete or spam email applications will not be considered. 
