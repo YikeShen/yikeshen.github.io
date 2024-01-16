@@ -24,16 +24,11 @@ Training:
 
 ## Mentees
 
-![](XingyuZhangPic.png)
 ### Xingyu Zhang
 March 2023-present \
 Master of Public Health Student at Columbia University \
 Bachelor of Arts in Environmental Science, Colby College, Waterville, ME, United States
 
-### Timileyin Adediran, Ph.D.
-September 2023 – present \
-Postdoctoral Research Fellow at University of Michigan \
-Serve as NIH R25 Career Mode mentor.
 
 ### Maryam Ghalamkari
 October 2023 – present \
@@ -45,7 +40,6 @@ Ph.D. dissertation committee member. Dissertation chair [Dr. Un-Jung Kim](https:
 I am hiring full-ride Ph.D. students, please see Join tab for details. 
 
 ## Lab Alumni
-![](BorisMinasenkoPic.png)
 ### Boris Minasenko
 January 2023-September 2023
 - Next position: Bioinformatics Analyst at Emory University Rollins School of Public Health
