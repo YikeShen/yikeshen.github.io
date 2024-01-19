@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Spring 24: ENVR/GEOL 4458, EVSE 5458: Machine Learning for Earth and Environmental Scientist \
-[Syllabus]()
+[Syllabus](https://oit-ead-canvas-syllabus.s3.amazonaws.com/uta.instructure.com/2024-SPRING/175941-2242-ENVR-4458-001/2024-SPRING_2242-ENVR-4458-001.pdf)
 
 Spring 24: ENVR 4199/EVSE 5199/GEOL 4199/GEOL 5199, section 001, Seminar in Environmental and Earth Sciences\
 [Syllabus](https://oit-ead-canvas-syllabus.s3.amazonaws.com/uta.instructure.com/2024-SPRING/181879-2242-ENVR-4199-001/2024-SPRING_2242-ENVR-4199-001.pdf)
