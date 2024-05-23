@@ -18,6 +18,12 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 [Dr. Shen CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_02072024.pdf)
 
 ## News
+- May 2024, First Shen lab dinner!
+![LabPhoto2024](LabDinner050224.JPG)
+- May 2024, Shen lab welcomes Dhruvilkumar Ashokbhai Chodvadiya (master student at Department of Computer Science and Engineering), Katherine  Atkins (undergraduate student at EES), and Aaron Kuang (high school student at Greenhill High School)! Dhru, Katy, and Aaron will work on three different projects related to environmnetal health data science!
+- May 2024, Dr. Shen's Spring 24 ENVR/GEOL 4458, EVSE/GEOL5458 Machine Learning for Earth and Environmental Scientists course received the average of 4.55/5 course evaluation score!
+![Spring24class](ENVR4458Spring24.png)
+- May 2024, Dr. Shen received UTA College of Science Research Innovation Grant, a $12,000 seed grant to investigate computational toxicology. 
 - December 2023, Dr. Shen received 100%, 5/5 course evaluation for Fall 23 ENVR 4199 Seminars in Earth and Environmental Sciences Course. 
 - Fall 2023, Dr. Shen gave invited lectures at Icahn School of Medicine at Mount Sinai in NYC and Baylor University in Waco, TX. 
 - December 2023, Dr. Shen received Doctoral Recruiting Grant from The University of Texas at Arlington Graduate School, a grant for six prospective Ph.D. student on campus visits. 
@@ -50,5 +56,5 @@ Arlington, Texas 76019\
 Email: [yike.shen@uta.edu](yike.shen@uta.edu)
 
 #### Please forward your emails to my UTA email address. My Columbia email address is now deactivated. 
-Updated 12/21/2023
+Updated 05/23/2024
 
