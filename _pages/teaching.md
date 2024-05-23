@@ -7,13 +7,21 @@ redirect_from:
   - /markdown.html
 ---
 
-Spring 24: ENVR/GEOL 4458, EVSE 5458: Machine Learning for Earth and Environmental Scientist \
+My philosophy as an instructor is to create a classroom environment that enables students from all backgrounds to learn and develop their full potential toward their chosen careers. I believe teaching/mentoring and research are equally important responsibilities of a professor to help students learn, think, and succeed. To accomplish this goal, I thrive to build an engaging and welcoming lab and classroom through various active learning activities. 
+
+### Spring 24: ENVR/GEOL 4458, EVSE 5458: Machine Learning for Earth and Environmental Scientist \
 [Syllabus](https://oit-ead-canvas-syllabus.s3.amazonaws.com/uta.instructure.com/2024-SPRING/175941-2242-ENVR-4458-001/2024-SPRING_2242-ENVR-4458-001.pdf)
+The goal of the machine learning class is to equip students with critical skills in the Python programming language and Machine learning algorithms, and to apply these skills to various problems related to their interest. The case studies for this class focuses on Environmental Science, but the skills are transferrable to all other domains. 
+Section 001-Lecture
+![](MLLectureSpring24.png)
+Section 011-Lab
+![](MLLAB_Spring24.png)
 
-Spring 24: ENVR 4199/EVSE 5199/GEOL 4199/GEOL 5199, section 001, Seminar in Environmental and Earth Sciences\
+### Spring 24: ENVR 4199/EVSE 5199/GEOL 4199/GEOL 5199, section 001, Seminar in Environmental and Earth Sciences\
 [Syllabus](https://oit-ead-canvas-syllabus.s3.amazonaws.com/uta.instructure.com/2024-SPRING/181879-2242-ENVR-4199-001/2024-SPRING_2242-ENVR-4199-001.pdf)
+![](Spring24MLseminar.png)
 
-Fall 23: ENVR 4199/EVSE 5199/GEOL 4199/GEOL 5199, section 001, Seminar in Environmental and Earth Sciences \
+### Fall 23: ENVR 4199/EVSE 5199/GEOL 4199/GEOL 5199, section 001, Seminar in Environmental and Earth Sciences \
 [Syllabus](https://oit-ead-canvas-syllabus.s3.amazonaws.com/uta.instructure.com/2023-FALL/157227-2238-EVSE-5199-001/2023-FALL_2238-EVSE-5199-001.pdf) \
 The goal of the seminar class is to teach students to get key information from speakers and write a structured summary: 
 1. Why? Big picture
