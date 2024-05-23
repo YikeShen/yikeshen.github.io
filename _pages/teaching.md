@@ -36,6 +36,7 @@ The goal of the seminar class is to teach students to get key information from s
 3. How? General ways the speaker fill this gap and its importance.
 4. Who? The speaker’s tools and expertise to fill this gap, their results.
 5. So What? Outcome and how did the speaker advance the understanding.\
+
 Student course evaluation:
 <img width="859" alt="image" src="https://github.com/YikeShen/yikeshen.github.io/assets/25994057/3ba00eea-e87b-475c-8932-35135dc6956a">
 
