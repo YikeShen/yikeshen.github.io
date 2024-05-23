@@ -19,9 +19,9 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 
 ## News
 - May 2024, First Shen lab dinner!
-![LabPhoto2024](LabDinner050224.JPG)
+![LabPhoto2024](LabDinner050224.jpg)
 - May 2024, Shen lab welcomes Dhruvilkumar Ashokbhai Chodvadiya (master student at Department of Computer Science and Engineering), Katherine  Atkins (undergraduate student at EES), and Aaron Kuang (high school student at Greenhill High School)! Dhru, Katy, and Aaron will work on three different projects related to environmnetal health data science!
-- May 2024, Dr. Shen's Spring 24 ENVR/GEOL 4458, EVSE/GEOL5458 Machine Learning for Earth and Environmental Scientists course received the average of 4.55/5 course evaluation score!
+- May 2024, Dr. Shen's Spring 24 ENVR/GEOL 4458, EVSE/GEOL5458 Machine Learning for Earth and Environmental Scientists course received the average of 4.55/5 course evaluation score! What a fun teaching experience!
 ![Spring24class](ENVR4458Spring24.png)
 - May 2024, Dr. Shen received UTA College of Science Research Innovation Grant, a $12,000 seed grant to investigate computational toxicology. 
 - December 2023, Dr. Shen received 100%, 5/5 course evaluation for Fall 23 ENVR 4199 Seminars in Earth and Environmental Sciences Course. 
