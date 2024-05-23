@@ -33,6 +33,7 @@ May 2024-present
 May 2024-present
 - Master student at UTA, Computer Science and Engineering Major
 ![](DhruPic.png)
+
 ### Aaron Kuang
 May 2024-present
 - High school student, Greenhill High School
