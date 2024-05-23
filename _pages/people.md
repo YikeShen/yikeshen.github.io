@@ -24,14 +24,15 @@ Training:
 
 ## Students
 
-### Katherine Atkins ![](KatyPic.png)
+### Katherine Atkins
 May 2024-present
 - Undergraduate student at UTA, Environmental Science Major with Data Science Minor
+![](KatyPic.png)
 
 ### Dhruvilkumar Ashokbhai Chodvadiya
 May 2024-present
 - Master student at UTA, Computer Science and Engineering Major
-
+![](DhruPic.png)
 ### Aaron Kuang
 May 2024-present
 - High school student, Greenhill High School
@@ -45,7 +46,7 @@ August 2024 (expected)
 August 2024 (expected)
 - Ph.D. student
 - MEng in Petroleum Engineering at University of Calgary (Canada), B.Eng. in Petroleum Engineering at China University of Petroleum (China)
-
+![](StevePic.png)
 
 ### You?
 Please see Join tab for details. 
