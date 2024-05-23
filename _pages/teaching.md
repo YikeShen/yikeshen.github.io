@@ -11,7 +11,7 @@ My philosophy as an instructor is to create a classroom environment that enables
 
 ### Spring 24: ENVR/GEOL 4458, EVSE 5458: Machine Learning for Earth and Environmental Scientist 
 [Syllabus](https://oit-ead-canvas-syllabus.s3.amazonaws.com/uta.instructure.com/2024-SPRING/175941-2242-ENVR-4458-001/2024-SPRING_2242-ENVR-4458-001.pdf)\
-The goal of the machine learning class is to equip students with critical skills in the Python programming language and Machine Learning algorithms, and to apply these skills to various problems related to their interest. The case studies for this class focuses on Environmental Science, but the skills are transferrable to all other domains. 
+The goal of the machine learning class is to equip students with critical skills in the Python programming language and Machine Learning algorithms, and to apply these skills to various problems related to their interest. The case studies for this class focuses on Environmental Science, but the skills are transferrable to all other domains. \
 Section 001-Lecture
 ![](MLLectureSpring24.png)
 Student feedback - Lecture section
