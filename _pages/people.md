@@ -24,7 +24,7 @@ Training:
 
 ## Students
 
-### Katherine Atkins
+### Katherine Atkins ![](KatyPic.png)
 May 2024-present
 - Undergraduate student at UTA, Environmental Science Major with Data Science Minor
 
@@ -58,7 +58,7 @@ January 2023-September 2023
 - MS thesis: Deep Autoencoders as Dimensional Reduction and Prediction Tools in Cancer Type Identification. (manuscript in prepration)
 
 ### Xingyu Zhang
-- March 2023-November 2023 
+March 2023-November 2023 
 - Master of Public Health in Environmental Health Sciences, Columbia University, New York, NY 
 - MPH project: Associations of childhood hair metal exposures with intestinal microbiota multi-omics in a Canadian Gestation Cohort. (manuscript in prepration)
 
