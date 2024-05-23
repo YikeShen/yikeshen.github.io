@@ -22,31 +22,45 @@ Training:
 * Ph.D. dual major, Environmental Science and Policy, Michigan State University, 2020
 * B.Sc. Environmental and Conservation Sciences, University of Alberta, 2016
 
-## Mentees
+## Students
 
-### Xingyu Zhang
-March 2023-present \
-Master of Public Health Student at Columbia University \
-Bachelor of Arts in Environmental Science, Colby College, Waterville, ME, United States
+### Katherine Atkins
+May 2024-present
+- Undergraduate student at UTA, Environmental Science Major with Data Science Minor
 
+### Dhruvilkumar Ashokbhai Chodvadiya
+May 2024-present
+- Master student at UTA, Computer Science and Engineering Major
 
-### Maryam Ghalamkari
-October 2023 – present \
-Ph.D. student, University of Texas at Arlington \
-Ph.D. dissertation committee member. Dissertation chair [Dr. Un-Jung Kim](https://www.uta.edu/academics/faculty/profile?username=kimu).
+### Aaron Kuang
+May 2024-present
+- High school student, Greenhill High School
+
+### Yidan Zhang
+August 2024 (expected)
+- Ph.D. student
+- MS in Epidemiology and Health Statistics at Sun Yat-sen University (China), BS in Public Health at Shanxi Medical University (China).
+
+### Steve Adjorlolo
+August 2024 (expected)
+- Ph.D. student
+- MEng in Petroleum Engineering at University of Calgary (Canada), B.Eng. in Petroleum Engineering at China University of Petroleum (China)
 
 
 ### You?
-I am hiring full-ride Ph.D. students, please see Join tab for details. 
+Please see Join tab for details. 
 
 ## Lab Alumni
 ### Boris Minasenko
 January 2023-September 2023
-- Next position: Bioinformatics Analyst at Emory University Rollins School of Public Health
-- MS thesis: Dimensionality Reduction and Clustering of Epigenome-wide DNA Methylation Profiles in Cancer Subtypes: A Comparative Analysis of PCA, t-SNE, UMAP, and Autoencoder Approaches (manuscript in prepration)
 - Master of Science in Toxicology, Columbia University, New York, NY
+- Next position: Bioinformatics Analyst at Emory University Rollins School of Public Health
+- MS thesis: Deep Autoencoders as Dimensional Reduction and Prediction Tools in Cancer Type Identification. (manuscript in prepration)
 
+### Xingyu Zhang
+- March 2023-November 2023 
+- Master of Public Health in Environmental Health Sciences, Columbia University, New York, NY 
+- MPH project: Associations of childhood hair metal exposures with intestinal microbiota multi-omics in a Canadian Gestation Cohort. (manuscript in prepration)
 
-
-
+Updated 05/23/2024
 
