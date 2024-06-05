@@ -42,7 +42,7 @@ May 2024-present
 August 2024 (expected)
 - Ph.D. student
 - MS in Epidemiology and Health Statistics at Sun Yat-sen University (China), BS in Public Health at Shanxi Medical University (China).
-
+![](YidanZhang_photo.png)
 ### Steve Adjorlolo
 August 2024 (expected)
 - Ph.D. student
