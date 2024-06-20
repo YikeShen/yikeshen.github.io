@@ -14,7 +14,7 @@ Assistant Professor \
 Department of Earth and Environmental Sciences \
 University of Texas at Arlington \
 Email: yike.shen@uta.edu \
-my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_052324.pdf) 
+my [CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_062024.pdf) 
 
 Training: 
 * Postdoctoral Research Scientist, Department of Environmental Health Sciences, Columbia University in the City of New York, 06/2020-08/2023
