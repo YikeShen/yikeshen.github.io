@@ -14,7 +14,7 @@ redirect_from:
 ### Admission to the Shen Lab is rolling-based. We are always looking for motivated students. 
 
 # Ph.D. students
-We are currenly not looking for new PhD students at this point. 
+**We are currenly not looking for new PhD students at this point.** 
 
 We are looking for motivated Ph.D. students to join our group. The Shen Laboratory welcomes students with all backgrounds, race/ethnicity, and gender who are interested in environmental health. The successful candidates will work on exciting projects related to Environmental Health Data Science, integrating high-dimensional environmental exposures, multi-omics, and health outcomes through advanced machine learning and statistical methods. Applications are reviewed as soon as they are received. \
 Please refer to relevant research [here](https://yikeshen.github.io//research/)
