@@ -18,6 +18,10 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 [Dr. Shen CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_062024.pdf)
 
 ## News
+- August 2024, Shen lab welcoems PhD students Yidan Zhang & Steve Adjorlolo!!  
+![LabPhotoFall2024](LabBrunch2024.png)
+- August 2024, Interactive Cohort Network website is launched: https://www.cohortnetwork.org/. We invite you to take a moment to navigate the interactive [Cohort Network](https://www.cohortnetwork.org/cohort-network). Great job, Dhru, for developing this website!
+![](CohortNetworkWebmain.png)
 - May 2024, First Shen lab dinner!
 ![LabPhoto2024](LabDinner050224.jpg)
 - May 2024, Shen lab welcomes Dhruvilkumar Ashokbhai Chodvadiya (master student at Department of Computer Science and Engineering), Katherine  Atkins (undergraduate student at EES), and Aaron Kuang (high school student at Greenhill High School)! Dhru, Katy, and Aaron will work on three different projects related to environmnetal health data science!
