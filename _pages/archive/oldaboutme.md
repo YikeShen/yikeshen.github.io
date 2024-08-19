@@ -22,6 +22,7 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 ![LabPhotoFall2024](LabBrunch2024.png)
 - August 2024, Interactive Cohort Network website is launched: https://www.cohortnetwork.org/. We invite you to take a moment to navigate the interactive [Cohort Network](https://www.cohortnetwork.org/cohort-network). Great job, Dhru, for developing this website!
 ![](CohortNetworkWebmain.png)
+- June 2024, Dr. Shen gave a guest lecture at Columbia University SHARP Python bootcamp. 
 - May 2024, First Shen lab dinner!
 ![LabPhoto2024](LabDinner050224.jpg)
 - May 2024, Shen lab welcomes Dhruvilkumar Ashokbhai Chodvadiya (master student at Department of Computer Science and Engineering), Katherine  Atkins (undergraduate student at EES), and Aaron Kuang (high school student at Greenhill High School)! Dhru, Katy, and Aaron will work on three different projects related to environmnetal health data science!
@@ -33,7 +34,7 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 - December 2023, Dr. Shen received 100%, 5/5 course evaluation for Fall 23 ENVR 4199 Seminars in Earth and Environmental Sciences Course. 
 - Fall 2023, Dr. Shen gave invited lectures at Icahn School of Medicine at Mount Sinai in NYC and Baylor University in Waco, TX. 
 - December 2023, Dr. Shen received Doctoral Recruiting Grant from The University of Texas at Arlington Graduate School, a grant for six prospective Ph.D. student on campus visits. 
-- October 2023, Dr. Shen gave an invited lecture on Academic Interviewing and Negotiation at Columbia University. 
+- October 2023, Dr. Shen gave an invited lecture on Academic Interviewing and Negotiation at Columbia University academic application bootcamp. 
 - September 2023, Dr. Shen recevied The University of Texas System Rising STARs award, a $100,000 competitive internal funding to help build #ShenLab. 
 - September 2023, The Shen Laboratory opens at the Department of Earth and Environmental Sciences, University of Texas at Arlington
 - May 2023, Our Cohort Network paper was published as Cover at Environmental Science & Technology! [Read](https://pubs.acs.org/doi/abs/10.1021/acs.est.2c08174)
@@ -61,6 +62,5 @@ University of Texas at Arlington \
 Arlington, Texas 76019\
 Email: [yike.shen@uta.edu](yike.shen@uta.edu)
 
-#### Please forward your emails to my UTA email address. My Columbia email address is now deactivated. 
-Updated 05/23/2024
+Updated 08/18/2024
 
