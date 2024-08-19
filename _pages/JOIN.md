@@ -49,6 +49,8 @@ Candidates who are interested in Ph.D. positions are encouraged to contact Dr. Y
 Master students are typically admitted through the Department of Earth and Environmental Sciences as non-thesis non-funded option. Students have the opportunity to work with a Professor after they start their program to transfer to thesis option. 
 Please read the instruction to [apply](http://catalog.uta.edu/science/earth/graduate/#masterstext).
 
+UTA master students, please send an email inquiry to Dr. Shen about potential graduate research opportunities. Our lab currently do not have paid graduate research assistantships for new master student. 
+
 # Undergraduate students
 UTA undergraduate students, please send an email inquiry to Dr. Shen about potential undergraduate research opportunities. 
 
