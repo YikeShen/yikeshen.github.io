@@ -18,7 +18,7 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 [Dr. Shen CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_062024.pdf)
 
 ## News
-- August 2024, Shen lab welcoems PhD students Yidan Zhang & Steve Adjorlolo!!  
+- August 2024, Shen lab welcomes PhD students Yidan Zhang & Steve Adjorlolo!!  
 ![LabPhotoFall2024](LabBrunch2024.png)
 - August 2024, Interactive Cohort Network website is launched: https://www.cohortnetwork.org/. We invite you to take a moment to navigate the interactive [Cohort Network](https://www.cohortnetwork.org/cohort-network). Great job, Dhru, for developing this website!
 ![](CohortNetworkWebmain.png)
