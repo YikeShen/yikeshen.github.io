@@ -24,30 +24,29 @@ Training:
 
 ## Students
 
-### Katherine Atkins
-May 2024-present
-- Undergraduate student at UTA, Environmental Science Major with Data Science Minor
-![](KatyPic.png)
+### Yidan Zhang
+August 2024-present
+- Ph.D. student
+- MS in Epidemiology and Health Statistics at Sun Yat-sen University (China), BS in Public Health at Shanxi Medical University (China).
+![](YidanZhang_photo.png)
+
+### Steve Adjorlolo
+August 2024-present
+- Ph.D. student
+- MEng in Petroleum Engineering at University of Calgary (Canada), B.Eng. in Petroleum Engineering at China University of Petroleum (China)
+![](StevePic.png)
 
 ### Dhruvilkumar Ashokbhai Chodvadiya
 May 2024-present
 - Master student at UTA, Computer Science and Engineering Major
 ![](DhruPic.png)
 
-### Aaron Kuang
+### Katherine Atkins
 May 2024-present
-- High school student, Greenhill High School
+- Undergraduate student at UTA, Environmental Science Major with Data Science Minor
+![](KatyPic.png)
 
-### Yidan Zhang
-August 2024 (expected)
-- Ph.D. student
-- MS in Epidemiology and Health Statistics at Sun Yat-sen University (China), BS in Public Health at Shanxi Medical University (China).
-![](YidanZhang_photo.png)
-### Steve Adjorlolo
-August 2024 (expected)
-- Ph.D. student
-- MEng in Petroleum Engineering at University of Calgary (Canada), B.Eng. in Petroleum Engineering at China University of Petroleum (China)
-![](StevePic.png)
+
 
 ### You?
 Please see Join tab for details. 
@@ -64,5 +63,8 @@ March 2023-November 2023
 - Master of Public Health in Environmental Health Sciences, Columbia University, New York, NY 
 - MPH project: Associations of childhood hair metal exposures with intestinal microbiota multi-omics in a Canadian Gestation Cohort. (manuscript in prepration)
 
-Updated 05/23/2024
+### Aaron Kuang
+May 2024-August 2024
+- High school student, Greenhill High School
+Updated 08/18/2024
 
