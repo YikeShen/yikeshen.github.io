@@ -30,12 +30,6 @@ August 2024-present
 - MS in Epidemiology and Health Statistics at Sun Yat-sen University (China), BS in Public Health at Shanxi Medical University (China).
 ![](YidanZhang_photo.png)
 
-### Steve Adjorlolo
-August 2024-present
-- Ph.D. student
-- MEng in Petroleum Engineering at University of Calgary (Canada), B.Eng. in Petroleum Engineering at China University of Petroleum (China)
-![](StevePic.png)
-
 ### Dhruvilkumar Ashokbhai Chodvadiya
 May 2024-present
 - Master student at UTA, Computer Science and Engineering Major
