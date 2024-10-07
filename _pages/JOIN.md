@@ -11,7 +11,7 @@ redirect_from:
 
 ## Opportunities
 
-## We are currently hiring one new PhD student focusing on Computational Toxicology
+## We are currently hiring one new PhD student focusing on Environmental Health Data Science
 Please send Dr. Shen your complete application. Selected students will be contacted for three rounds of interviews:
 - Round 1: A 30-minute general interview. Selected students will be given one task to complete in one week. 
 - Round 2: A one-hour discussion about the task results and Q&A to examine student's interest in PhD program and specific research areas. 
