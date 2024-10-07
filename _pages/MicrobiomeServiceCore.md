@@ -12,7 +12,7 @@ redirect_from:
 
 * My molecular biology wet laboratory has completed construction and is now accepting sample BioBank and end-to-end microbiome service. 
 * I am happy to be a Co-I of your R01s and provide high quality microbiome multi-omics service. 
-![]("118 2024 after (happy PI included).jpg")
+![](118_2024_after_PIincluded.png)
 
 ## Introduction
 * Microbiome sequencing price has dropped substantially. More researchers and companies are interested in learning about microbiome in humans, environment, and animals. Shotgun sequencing has enabled in-depth learning of microbial community structure, pathway, functional potential, and active functions. One answer we ALL want to know about microbiome: Who is there, what are they doing? 
