@@ -18,7 +18,9 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 [Dr. Shen CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_062024.pdf)
 
 ## News
-- August 2024, Shen lab welcomes PhD students Yidan Zhang & Steve Adjorlolo!!  
+- September/June 2024, Dr. Shen submitted two NIH grants (R24 and Trailblazer R21) as contact-PI, totalling $2.78 million
+- September 2024, Dr. Shen gave an invited lecture at University of Texas at Dallas.
+- August 2024, Shen lab welcomes PhD student Yidan Zhang!!  
 ![LabPhotoFall2024](LabBrunch2024.png)
 - August 2024, Interactive Cohort Network website is launched: https://www.cohortnetwork.org/. We invite you to take a moment to navigate the interactive [Cohort Network](https://www.cohortnetwork.org/cohort-network). Great job, Dhru, for developing this website!
 ![](CohortNetworkWebmain.png)
@@ -30,7 +32,6 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 - May 2024, Dr. Shen's Spring 24 ENVR/GEOL 4458, EVSE/GEOL5458 Machine Learning for Earth and Environmental Scientists course received the average of 4.55/5 course evaluation score! What a fun teaching experience!
 ![Spring24class](ENVR4458Spring24.png)
 - May 2024, Dr. Shen received UTA College of Science Research Innovation Grant, a $12,000 seed grant to investigate computational toxicology.
-- April 2024, Prospective Ph.D. student Steve Adjorlolo received Maverick Merit Fellowship, a prestigeous Ph.D. recruitment fellowship to attract top Ph.D. student to UTA. Congratulations, Steve!
 - December 2023, Dr. Shen received 100%, 5/5 course evaluation for Fall 23 ENVR 4199 Seminars in Earth and Environmental Sciences Course. 
 - Fall 2023, Dr. Shen gave invited lectures at Icahn School of Medicine at Mount Sinai in NYC and Baylor University in Waco, TX. 
 - December 2023, Dr. Shen received Doctoral Recruiting Grant from The University of Texas at Arlington Graduate School, a grant for six prospective Ph.D. student on campus visits. 
