@@ -18,6 +18,7 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 [Dr. Shen CV](https://github.com/YikeShen/Shen-Yike_CV/blob/master/CV_Shen%2CYike_062024.pdf)
 
 ## News
+- September 2024, Dr. Shen published a new paper at Briefings in Bioinformatics titled [AESurv: autoencoder survival analysis for accurate early prediction of coronary heart disease](https://doi.org/10.1093/bib/bbae479)
 - September/June 2024, Dr. Shen submitted two NIH grants (R24 and Trailblazer R21) as contact-PI, totalling $2.78 million
 - September 2024, Dr. Shen gave an invited lecture at University of Texas at Dallas.
 - August 2024, Shen lab welcomes PhD student Yidan Zhang!!  
