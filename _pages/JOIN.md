@@ -16,7 +16,8 @@ Please send Dr. Shen your complete application. Selected students will be contac
 - Round 1: 30 minutes general interview. Selected students will be given one task to complete in one week. 
 - Round 2: one hour discussion about the task results and Q&A to examine students interest in PhD program and research topic. 
 - Round 3: Dr. Shen will give 45 minutes presentation on research topics in the lab and students have 15 minutes to ask questions.\
-Shen lab do direct admission, meaning selected students are directly admitted to Dr. Shen's group and will do research under Dr. Shen's mentorship. We do not do any rotations in our department. Students will not be admitted if they are not interested in research in Dr. Shen's group. Failure to conduct research will result in the termination of PhD program. 
+
+Shen lab do direct admission, meaning selected students are directly admitted to Dr. Shen's group and will do research under Dr. Shen's mentorship. We do not do any rotations in our department. Students will not be admitted if they are not interested in research in Dr. Shen's group. Failure to conduct research will result in the discontinuation of financial support and termination of PhD program. 
 
 ### Admission to the Shen Lab is rolling-based. We are always looking for motivated students. 
 
