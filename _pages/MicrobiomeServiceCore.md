@@ -10,9 +10,9 @@ redirect_from:
 
 ## My lab at UT Arlington provides end-to-end microbiome sequencing consultation and collaboration.
 
-* My molecular biology wet laboratory (currently under construction) will start accepting sample BioBank and extractions starting Fall 2024. 
-* Please see the microbiome bioinformatics consultation details below.
+* My molecular biology wet laboratory has completed construction and is now accepting sample BioBank and end-to-end microbiome service. 
 * I am happy to be a Co-I of your R01s and provide high quality microbiome multi-omics service. 
+![]("118 2024 after (happy PI included).jpg")
 
 ## Introduction
 * Microbiome sequencing price has dropped substantially. More researchers and companies are interested in learning about microbiome in humans, environment, and animals. Shotgun sequencing has enabled in-depth learning of microbial community structure, pathway, functional potential, and active functions. One answer we ALL want to know about microbiome: Who is there, what are they doing? 
