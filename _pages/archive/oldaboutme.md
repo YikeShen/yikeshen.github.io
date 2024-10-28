@@ -22,7 +22,7 @@ The Shen Laboratory focuses on Environmental Health Data Science where we integr
 - September/June 2024, Dr. Shen submitted two NIH grants (R24 and Trailblazer R21) as contact-PI, totalling $2.78 million
 - September 2024, Dr. Shen gave an invited lecture at University of Texas at Dallas.
 - August 2024, Shen lab welcomes PhD student Yidan Zhang!!  
-![LabPhotoFall2024](Lab Brunch 10.28.24.png)
+![LabPhotoFall2024]("Lab Brunch 10.28.24.png")
 - August 2024, Interactive Cohort Network website is launched: https://www.cohortnetwork.org/. We invite you to take a moment to navigate the interactive [Cohort Network](https://www.cohortnetwork.org/cohort-network). Great job, Dhru, for developing this website!
 ![](CohortNetworkWebmain.png)
 - June 2024, Dr. Shen gave a guest lecture at Columbia University SHARP Python bootcamp. 
