@@ -11,14 +11,6 @@ redirect_from:
 
 ## Opportunities
 
-## We are currently hiring one new PhD student focusing on Environmental Health Data Science
-Please send Dr. Shen your complete application. Selected students will be contacted for three rounds of interviews:
-- Round 1: A 30-minute general interview. Selected students will be given one task to complete in one week. 
-- Round 2: A one-hour discussion about the task results and Q&A to examine student's interest in PhD program and specific research areas. 
-- Round 3: Dr. Shen will present on the lab's research topics for 45 minutes and students will have 30 minutes to ask questions.
-
-The Shen lab offers direct admission to PhD students, meaning selected students are directly admitted to Dr. Shen's group and will do research under Dr. Shen's mentorship. 
-
 ### Admission to the Shen Lab is rolling-based. We are always looking for motivated students. 
 
 # Ph.D. students
