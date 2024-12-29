@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+# We have launched our new website: [https://www.shengroup.org/](https://www.shengroup.org/).
+This website is no longer maintained as of December 2024. 
+
 
 ![](Theme_watermark.png)
 
